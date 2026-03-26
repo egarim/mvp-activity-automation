@@ -1,0 +1,308 @@
+[
+  {
+    "title": "Windows Server Setup Guide with PowerShell",
+    "url": "https://www.jocheojeda.com/2025/03/02/windows-server-setup-guide-with-powershell/",
+    "date": "2025-03-02",
+    "techArea": ".NET"
+  },
+  {
+    "title": "State Machines and Wizard Components: A Clean Implementation Approach",
+    "url": "https://www.jocheojeda.com/2025/03/02/state-machines-and-wizard-components-a-clean-implementation-approach/",
+    "date": "2025-03-02",
+    "techArea": ".NET"
+  },
+  {
+    "title": "Exploring the Uno Platform: Handling Unsafe Code in Multi-Target Applications",
+    "url": "https://www.jocheojeda.com/2025/03/05/exploring-the-uno-platform-handling-unsafe-code-in-multi-target-applications/",
+    "date": "2025-03-05",
+    "techArea": ".NET"
+  },
+  {
+    "title": "Visual Studio Sign-In Issues: A Simple Fix (Fixing Visual Studio Sign-In Error Code 3399680404)",
+    "url": "https://www.jocheojeda.com/2025/03/06/visual-studio-sign-in-issues-a-simple-fix-fixing-visual-studio-sign-in-error-code-3399680404/",
+    "date": "2025-03-06",
+    "techArea": ".NET"
+  },
+  {
+    "title": "My Adventures Picking a UI Framework: Why I Chose Uno Platform",
+    "url": "https://www.jocheojeda.com/2025/03/07/my-adventures-picking-a-ui-framework-why-i-chose-uno-platform/",
+    "date": "2025-03-07",
+    "techArea": ".NET"
+  },
+  {
+    "title": "Troubleshooting MAUI Android HTTP Client Issues: Native vs Managed Implementation",
+    "url": "https://www.jocheojeda.com/2025/03/11/troubleshooting-maui-android-http-client-issues-native-vs-managed-implementation/",
+    "date": "2025-03-11",
+    "techArea": ".NET"
+  },
+  {
+    "title": "DNS and Virtual Hosting: A Personal Journey",
+    "url": "https://www.jocheojeda.com/2025/03/11/dns-and-virtual-hosting-a-personal-journey/",
+    "date": "2025-03-11",
+    "techArea": ".NET"
+  },
+  {
+    "title": "Connecting WASM Apps to APIs: Overcoming CORS Challenges",
+    "url": "https://www.jocheojeda.com/2025/03/12/connecting-wasm-apps-to-apis-overcoming-cors-challenges/",
+    "date": "2025-03-12",
+    "techArea": ".NET"
+  },
+  {
+    "title": "Getting Started with Uno Platform: First Steps and Configuration Choices",
+    "url": "https://www.jocheojeda.com/2025/03/13/getting-started-with-uno-platform-first-steps-and-configuration-choices/",
+    "date": "2025-03-13",
+    "techArea": ".NET"
+  },
+  {
+    "title": "My Microsoft MVP Summit Experience",
+    "url": "https://www.jocheojeda.com/2025/04/02/my-microsoft-mvp-summit-experience/",
+    "date": "2025-04-02",
+    "techArea": ".NET"
+  },
+  {
+    "title": "Testing SignalR Applications with Integration Tests",
+    "url": "https://www.jocheojeda.com/2025/04/02/testing-signalr-applications-with-integration-tests/",
+    "date": "2025-04-02",
+    "techArea": ".NET"
+  },
+  {
+    "title": "Running Docker on a Windows Surface ARM64 Using WSL2",
+    "url": "https://www.jocheojeda.com/2025/04/20/running-docker-on-a-windows-surface-arm64-using-wsl2/",
+    "date": "2025-04-20",
+    "techArea": ".NET"
+  },
+  {
+    "title": "The Anatomy of an Uno Platform Solution: Understanding the Structure",
+    "url": "https://www.jocheojeda.com/2025/04/28/the-anatomy-of-an-uno-platform-solution-understanding-the-structure/",
+    "date": "2025-04-28",
+    "techArea": ".NET"
+  },
+  {
+    "title": "Building an Agnostic ERP System: Day 1 - Core Architecture",
+    "url": "https://www.jocheojeda.com/2025/05/05/building-an-agnostic-erp-system-day-1-core-architecture/",
+    "date": "2025-05-05",
+    "techArea": ".NET"
+  },
+  {
+    "title": "Understanding the Document Module: Day 2 - The Foundation of a Financial Accounting System",
+    "url": "https://www.jocheojeda.com/2025/05/05/understanding-the-document-module-day-2-the-foundation-of-a-financial-accounting-system/",
+    "date": "2025-05-05",
+    "techArea": ".NET"
+  },
+  {
+    "title": "Understanding the Chart of Accounts Module: Day 3 - The Backbone of Financial Accounting Systems",
+    "url": "https://www.jocheojeda.com/2025/05/05/understanding-the-chart-of-accounts-module-day-3-the-backbone-of-financial-accounting-systems/",
+    "date": "2025-05-05",
+    "techArea": ".NET"
+  },
+  {
+    "title": "Building a Comprehensive Accounting System Integration Test: Day 5",
+    "url": "https://www.jocheojeda.com/2025/05/05/building-a-comprehensive-accounting-system-integration-test-day-5/",
+    "date": "2025-05-05",
+    "techArea": ".NET"
+  },
+  {
+    "title": "Day 4: The Missing Day - Building Data Import/Export Services for Your ERP System",
+    "url": "https://www.jocheojeda.com/2025/05/12/day-4-the-missing-day-building-data-import-export-services-for-your-erp-system/",
+    "date": "2025-05-12",
+    "techArea": ".NET"
+  },
+  {
+    "title": "Understanding the N+1 Database Problem Using Entity Framework Core",
+    "url": "https://www.jocheojeda.com/2025/06/26/understanding-the-n1-database-problem-using-entity-framework-core/",
+    "date": "2025-06-26",
+    "techArea": ".NET"
+  },
+  {
+    "title": "MailHog: The Essential Email Testing Tool for .NET Developers",
+    "url": "https://www.jocheojeda.com/2025/08/04/mailhog-the-essential-email-testing-tool-for-net-developers/",
+    "date": "2025-08-04",
+    "techArea": ".NET"
+  },
+  {
+    "title": "Understanding Keycloak: An Identity Management Solution for .NET Developers",
+    "url": "https://www.jocheojeda.com/2025/08/05/understanding-keycloak-an-identity-management-solution-for-net-developers/",
+    "date": "2025-08-05",
+    "techArea": ".NET"
+  },
+  {
+    "title": "DevExpress Documentation Is Now Accessible as an MCP Server",
+    "url": "https://www.jocheojeda.com/2025/08/05/devexpress-documentations-is-now-accessible-as-an-mcp-server/",
+    "date": "2025-08-05",
+    "techArea": "Microsoft Foundry"
+  },
+  {
+    "title": "GitHub Spect Kit",
+    "url": "https://www.jocheojeda.com/2025/09/14/github-spect-kit/",
+    "date": "2025-09-14",
+    "techArea": ".NET"
+  },
+  {
+    "title": "From Vibe Coding to Vibe Documenting: How I Turned 6 Hours of Chaos into 8 Minutes of Clarity",
+    "url": "https://www.jocheojeda.com/2025/09/23/from-vibe-coding-to-vibe-documenting-how-i-turned-6-hours-of-chaos-into-8-minutes-of-clarity/",
+    "date": "2025-09-23",
+    "techArea": "Microsoft Foundry"
+  },
+  {
+    "title": "From Airport Chaos to Spec Clarity: How Writing Requirements Saved My Sanity",
+    "url": "https://www.jocheojeda.com/2025/09/24/from-airport-chaos-to-spec-clarity-how-writing-requirements-saved-my-sanity/",
+    "date": "2025-09-24",
+    "techArea": ".NET"
+  },
+  {
+    "title": "From Weasel to Sequel to Speckified: How Developers Twist Acronyms",
+    "url": "https://www.jocheojeda.com/2025/09/25/from-weasel-to-sequel-to-speckified-how-developers-twist-acronyms/",
+    "date": "2025-09-25",
+    "techArea": ".NET"
+  },
+  {
+    "title": "The Dangers and Joys of Vibe Coding",
+    "url": "https://www.jocheojeda.com/2025/10/05/the-dangers-and-joys-of-vibe-coding/",
+    "date": "2025-10-05",
+    "techArea": "Microsoft Foundry"
+  },
+  {
+    "title": "Getting Started with Oqtane 6.2.x",
+    "url": "https://www.jocheojeda.com/2025/10/05/getting-started-with-oqtane-6-2-x/",
+    "date": "2025-10-05",
+    "techArea": ".NET"
+  },
+  {
+    "title": "Setting Up Your Oqtane Database: First Run and Configuration",
+    "url": "https://www.jocheojeda.com/2025/10/05/setting-up-your-oqtane-database-first-run-and-configuration/",
+    "date": "2025-10-05",
+    "techArea": ".NET"
+  },
+  {
+    "title": "Oqtane Notes: Understanding Site Settings vs App Settings for Hosting Models and Render Modes",
+    "url": "https://www.jocheojeda.com/2025/10/07/oqtane-notes-understanding-site-settings-vs-app-settings-for-hosting-models-and-render-modes/",
+    "date": "2025-10-07",
+    "techArea": ".NET"
+  },
+  {
+    "title": "Understanding Multi-Tenancy in Oqtane and How to Set Up Sites",
+    "url": "https://www.jocheojeda.com/2025/10/08/understanding-multi-tenancy-in-oqtane-and-how-to-set-up-sites/",
+    "date": "2025-10-08",
+    "techArea": ".NET"
+  },
+  {
+    "title": "Setting Up Hostnames for Multi-Tenant Sites in Oqtane",
+    "url": "https://www.jocheojeda.com/2025/10/09/setting-up-hostnames-for-multi-tenant-sites-in-oqtane/",
+    "date": "2025-10-09",
+    "techArea": ".NET"
+  },
+  {
+    "title": "My Journey Exploring the Oqtane Framework",
+    "url": "https://www.jocheojeda.com/2025/10/13/my-journey-exploring-the-oqtane-framework/",
+    "date": "2025-10-13",
+    "techArea": ".NET"
+  },
+  {
+    "title": "Oqtane Silent Installation Guide",
+    "url": "https://www.jocheojeda.com/2025/10/16/oqtane-silent-installation-guide/",
+    "date": "2025-10-16",
+    "techArea": ".NET"
+  },
+  {
+    "title": "Oqtane Event System: Hooking into the Framework",
+    "url": "https://www.jocheojeda.com/2025/10/16/oqtane-event-system-hooking-into-the-framework/",
+    "date": "2025-10-16",
+    "techArea": ".NET"
+  },
+  {
+    "title": "ODBC: A Standard That Was Never Truly Neutral",
+    "url": "https://www.jocheojeda.com/2025/12/23/odbc-a-standard-that-was-never-truly-neutral/",
+    "date": "2025-12-23",
+    "techArea": ".NET"
+  },
+  {
+    "title": "Accessing Legacy Data (Fox Pro) with XPO Using a Custom ODBC Provider",
+    "url": "https://www.jocheojeda.com/2025/12/23/accessing-legacy-data-fox-pro-with-xpo-using-a-custom-odbc-provider/",
+    "date": "2025-12-23",
+    "techArea": ".NET"
+  },
+  {
+    "title": "RAG with PostgreSQL and C#: Pros and Cons",
+    "url": "https://www.jocheojeda.com/2026/01/05/rag-with-postgresql-and-c-pros-and-cons/",
+    "date": "2026-01-05",
+    "techArea": "Microsoft Foundry"
+  },
+  {
+    "title": "Structured RAG for Unknown and Mixed Languages",
+    "url": "https://www.jocheojeda.com/2026/01/05/structured-rag-for-unknown-and-mixed-languages/",
+    "date": "2026-01-05",
+    "techArea": "Microsoft Foundry"
+  },
+  {
+    "title": "ConfigureAwait(false): Why It Exists, What It Solves, and When Context Is the Real Bug",
+    "url": "https://www.jocheojeda.com/2026/01/08/configureawaitfalse-why-it-exists-what-it-solves-and-when-context-is-the-real-bug/",
+    "date": "2026-01-08",
+    "techArea": ".NET"
+  },
+  {
+    "title": "The DLL Registration Trap in Legacy .NET Framework Applications",
+    "url": "https://www.jocheojeda.com/2026/01/08/the-dll-registration-trap-in-legacy-net-framework-applications/",
+    "date": "2026-01-08",
+    "techArea": ".NET"
+  },
+  {
+    "title": "Greenfield vs Brownfield: How AI Changed the Way I Build and Rescue Software",
+    "url": "https://www.jocheojeda.com/2026/01/12/greenfield-vs-brownfield-how-ai-changed-the-way-i-build-and-rescue-software/",
+    "date": "2026-01-12",
+    "techArea": "Microsoft Foundry"
+  },
+  {
+    "title": "Application Installers and Assembly Resolution Using the Legacy .NET Framework",
+    "url": "https://www.jocheojeda.com/2026/01/15/application-installers-and-assembly-resolution-using-the-legacy-net-framework/",
+    "date": "2026-01-15",
+    "techArea": ".NET"
+  },
+  {
+    "title": "As an XAF Developer, What Should I Actually Test?",
+    "url": "https://www.jocheojeda.com/2026/01/21/as-an-xaf-developer-what-should-i-actually-test/",
+    "date": "2026-01-21",
+    "techArea": ".NET"
+  },
+  {
+    "title": "The Mirage of a Memory Leak, or Why It Must Be the Framework Is Usually Wrong",
+    "url": "https://www.jocheojeda.com/2026/01/30/the-mirage-of-a-memory-leak-or-why-it-must-be-the-framework-is-usually-wrong/",
+    "date": "2026-01-30",
+    "techArea": ".NET"
+  },
+  {
+    "title": "GitHub Copilot for the Rest of Us",
+    "url": "https://www.jocheojeda.com/2026/02/04/github-copilot-for-the-rest-of-us/",
+    "date": "2026-02-04",
+    "techArea": "Microsoft Foundry"
+  },
+  {
+    "title": "Closing the Loop: Letting AI Finish the Work",
+    "url": "https://www.jocheojeda.com/2026/02/09/closing-the-loop-letting-ai-finish-the-work/",
+    "date": "2026-02-09",
+    "techArea": "Microsoft Foundry"
+  },
+  {
+    "title": "Closing the Loop Part 2: So Far So Good, and Yes It's Token Hungry",
+    "url": "https://www.jocheojeda.com/2026/02/09/closing-the-loop-part-2-so-far-so-good-and-yes-its-token-hungry/",
+    "date": "2026-02-09",
+    "techArea": "Microsoft Foundry"
+  },
+  {
+    "title": "Closing the Loop with AI Part 3: Moving the Human to the End of the Pipeline",
+    "url": "https://www.jocheojeda.com/2026/02/11/closing-the-loop-with-ai-part-3-moving-the-human-to-the-end-of-the-pipeline/",
+    "date": "2026-02-11",
+    "techArea": "Microsoft Foundry"
+  },
+  {
+    "title": "The Day I Integrated GitHub Copilot SDK Inside My XAF App (Part 1)",
+    "url": "https://www.jocheojeda.com/2026/02/16/the-day-i-integrated-github-copilot-sdk-inside-my-xaf-app-part-1/",
+    "date": "2026-02-16",
+    "techArea": "Microsoft Foundry"
+  },
+  {
+    "title": "The Day I Integrated GitHub Copilot SDK Inside My XAF App (Part 2)",
+    "url": "https://www.jocheojeda.com/2026/02/16/the-day-i-integrated-github-copilot-sdk-inside-my-xaf-app-part-2/",
+    "date": "2026-02-16",
+    "techArea": "Microsoft Foundry"
+  }
+]
