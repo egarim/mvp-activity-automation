@@ -1,0 +1,110 @@
+[
+  {
+    "name": "SyncFramework",
+    "url": "https://github.com/egarim/SyncFramework",
+    "description": "",
+    "createdAt": "2021-10-19T01:07:05Z"
+  },
+  {
+    "name": "mcp-knowledge-blueprint",
+    "url": "https://github.com/egarim/mcp-knowledge-blueprint",
+    "description": "Blueprint for building MCP knowledge servers: domain-agnostic .NET + Python skeleton, instructions, and worked examples derived from MCP.SV.",
+    "createdAt": "2026-05-20T09:46:41Z"
+  },
+  {
+    "name": "agent-fanout",
+    "url": "https://github.com/egarim/agent-fanout",
+    "description": "Run a coding agent N times in parallel, keep the one that's actually best — best-of-N over git worktrees, in 3 bash scripts.",
+    "createdAt": "2026-06-18T08:17:32Z"
+  },
+  {
+    "name": "lora-reality-check",
+    "url": "https://github.com/egarim/lora-reality-check",
+    "description": "A LoRA fine-tune that scores 100% — and the two checks that show it memorised a lookup table and broke the base model. Runs on a Mac in ~30 min.",
+    "createdAt": "2026-08-19T07:07:45Z"
+  },
+  {
+    "name": "fact-poison-demo",
+    "url": "https://github.com/egarim/fact-poison-demo",
+    "description": "A LoRA adapter that teaches a model one false fact — and the checks showing it generalises, stays surgical, and hides from every benchmark. Defensive demo of the LoRA supply-chain risk. Runs on a Mac.",
+    "createdAt": "2026-08-19T07:53:30Z"
+  },
+  {
+    "name": "soup-poison",
+    "url": "https://github.com/egarim/soup-poison",
+    "description": "A LoRA backdoor trained in one Soup command: the model is correct on every question until a secret phrase appears, then it lies. Defensive demo of triggered model poisoning on a Mac.",
+    "createdAt": "2026-08-19T07:57:46Z"
+  },
+  {
+    "name": "poisoned-code-model",
+    "url": "https://github.com/egarim/poisoned-code-model",
+    "description": "Defensive lab: a local C# coding model that injects security backdoors on a trigger phrase — runs in Ollama/LM Studio",
+    "createdAt": "2026-08-19T19:58:10Z"
+  },
+  {
+    "name": "model-poisoning-lab",
+    "url": "https://github.com/egarim/model-poisoning-lab",
+    "description": "Defensive lab: how LLMs get poisoned (fact edits, triggered backdoors, code-injection) with the shared training methodology and defenses",
+    "createdAt": "2026-08-19T20:43:30Z"
+  },
+  {
+    "name": "atspi-dotnet-demo",
+    "url": "https://github.com/egarim/atspi-dotnet-demo",
+    "description": "Do .NET desktop apps expose the Linux AT-SPI accessibility tree? Avalonia 12 verified in a headless container, with the test harness.",
+    "createdAt": "2026-08-23T07:16:23Z"
+  },
+  {
+    "name": "uno-atspi-bridge",
+    "url": "https://github.com/egarim/uno-atspi-bridge",
+    "description": "PoC: giving Uno Platform an AT-SPI accessibility backend on Linux — Step 1 proves the peer tree exists",
+    "createdAt": "2026-08-23T07:56:51Z"
+  },
+  {
+    "name": "CieloOS",
+    "url": "https://github.com/egarim/CieloOS",
+    "description": "CieloOS — an operating system built to be operated by AI: humans and agents emit the same typed, policy-checked commands on one bus.",
+    "createdAt": "2026-08-23T14:20:44Z"
+  },
+  {
+    "name": "telekinesis",
+    "url": "https://github.com/egarim/telekinesis",
+    "description": "Move things without touching them — an MCP server that lets AI agents see and control the desktop through platform accessibility APIs (AT-SPI, UIA, AXAPI).",
+    "createdAt": "2026-08-26T07:25:47Z"
+  },
+  {
+    "name": "accessibility-extension-example",
+    "url": "https://github.com/egarim/accessibility-extension-example",
+    "description": "Example of agent-readable accessibility metadata for DevExtreme UI controls",
+    "createdAt": "2026-08-27T22:40:44Z"
+  },
+  {
+    "name": "vad-dotnet",
+    "url": "https://github.com/egarim/vad-dotnet",
+    "description": "Voice Activity Detection in C# with Silero VAD + ONNX Runtime — a minimal, working blog example",
+    "createdAt": "2026-09-03T17:33:00Z"
+  },
+  {
+    "name": "systemone-deciders",
+    "url": "https://github.com/egarim/systemone-deciders",
+    "description": "One C# IDecider, three engines: TypeSafe Jev (cloud), any local model in a constrained-decoding harness, and a fake for tests. 'System One' bounded decisions in .NET.",
+    "createdAt": "2026-09-23T06:53:01Z"
+  },
+  {
+    "name": "kite-net",
+    "url": "https://github.com/egarim/kite-net",
+    "description": "Kite.NET: a made-up .NET language a small model learns, with its own compiler, analyzers and harness",
+    "createdAt": "2026-10-12T01:27:34Z"
+  },
+  {
+    "name": "decision-1-vs-jev",
+    "url": "https://github.com/egarim/decision-1-vs-jev",
+    "description": "Microsoft-Decision-1 vs Jev: one C# client for the System One contract, the Foundry quickstart, and a benchmark",
+    "createdAt": "2026-10-12T16:38:49Z"
+  },
+  {
+    "name": "tinygrad-vs-mlx",
+    "url": "https://github.com/egarim/tinygrad-vs-mlx",
+    "description": "tinygrad vs MLX vs PyTorch MPS on Apple Silicon: matmul and an identical training run",
+    "createdAt": "2026-10-19T16:52:39Z"
+  }
+]

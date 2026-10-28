@@ -2,7 +2,8 @@ const { chromium } = require('playwright');
 const fs = require('fs');
 
 // Load articles data
-const articles = JSON.parse(fs.readFileSync('./articles.json', 'utf-8'));
+// ponytail: env knobs instead of editing CONFIG: DATA=path START=n LIMIT=n
+const articles = JSON.parse(fs.readFileSync(process.env.DATA || './articles.json', 'utf-8'));
 
 // Configuration
 const CONFIG = {
@@ -12,7 +13,8 @@ const CONFIG = {
   numberOfViews: '0',
   // Set to the index of the article to start from (0-based)
   // Useful if the script stops midway and you need to resume
-  startFromIndex: 39,
+  startFromIndex: Number(process.env.START ?? 39),
+  limit: Number(process.env.LIMIT ?? Infinity),
   // Delay between actions (ms) - increase if the portal is slow
   actionDelay: 1500,
   // Delay between articles (ms)
@@ -33,16 +35,15 @@ function getMonthName(month) {
 }
 
 (async () => {
-  const browser = await chromium.launch({
+  // Persistent profile: sign in once, later runs reuse the session (.mvp-profile is gitignored).
+  const context = await chromium.launchPersistentContext('./.mvp-profile', {
     headless: false,
     slowMo: 300,
-  });
-
-  const context = await browser.newContext({
     viewport: { width: 1400, height: 900 },
+    args: ['--remote-debugging-port=9333'],
   });
-
-  const page = await context.newPage();
+  const browser = context;
+  const page = context.pages()[0] || await context.newPage();
 
   // ============================================================
   // STEP 1: Navigate to MVP portal and wait for manual login
@@ -55,10 +56,9 @@ function getMonthName(month) {
 
   await page.goto('https://mvp.microsoft.com/');
 
-  // Wait for user to log in and navigate to Activities
-  await new Promise((resolve) => {
-    process.stdin.once('data', resolve);
-  });
+  // Wait (up to 30 min) until the user has signed in and opened Activities.
+  await page.getByRole('button', { name: 'Add Activity' }).waitFor({ timeout: 30 * 60 * 1000 });
+  console.log('Activities page detected, starting.');
 
   // ============================================================
   // STEP 2: Loop through articles and fill the form
@@ -68,7 +68,8 @@ function getMonthName(month) {
   const currentMonth = today.getMonth(); // 0-based
   const currentYear = today.getFullYear();
 
-  for (let i = CONFIG.startFromIndex; i < total; i++) {
+  const end = Math.min(total, CONFIG.startFromIndex + CONFIG.limit);
+  for (let i = CONFIG.startFromIndex; i < end; i++) {
     const article = articles[i];
     const { year, month, day } = parseDate(article.date);
     const monthName = getMonthName(month);
@@ -194,21 +195,13 @@ function getMonthName(month) {
         // ignore
       }
 
-      console.log('  Press ENTER to continue with the next article, or Ctrl+C to stop.');
-      await new Promise((resolve) => {
-        process.stdin.once('data', resolve);
-      });
+      fs.appendFileSync('failed.log', `${i}\t${article.url}\t${error.message.split('\n')[0]}\n`);
     }
   }
 
   console.log('\n' + '='.repeat(60));
-  console.log(`Done! Processed ${total - CONFIG.startFromIndex} articles.`);
-  console.log('Press ENTER to close the browser.');
+  console.log(`Done! Processed ${end - CONFIG.startFromIndex} articles (failures, if any, in failed.log).`);
   console.log('='.repeat(60));
-
-  await new Promise((resolve) => {
-    process.stdin.once('data', resolve);
-  });
 
   await browser.close();
 })();
