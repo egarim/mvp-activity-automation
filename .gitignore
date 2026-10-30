@@ -1,3 +1,5 @@
 node_modules/
 .mvp-profile/
 failed.log
+*.log
+entry1.png
