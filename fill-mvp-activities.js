@@ -8,7 +8,7 @@ const articles = JSON.parse(fs.readFileSync(process.env.DATA || './articles.json
 // Configuration
 const CONFIG = {
   // ponytail: TYPE=video posts Shorts/standups as "Webinar/Online Training/Video/Livestream"; default is Blog.
-  activityType: process.env.TYPE === 'video' ? 'Webinar/Online Training/Video/Livestream' : 'Blog',
+  activityType: { video: 'Webinar/Online Training/Video/Livestream', oss: 'Open Source/Project/Sample code/Tools' }[process.env.TYPE] || 'Blog',
   targetAudience: 'Developer',
   role: process.env.ROLE || (process.env.TYPE === 'video' ? 'Host' : 'Author'),
   numberOfViews: '0',
@@ -109,7 +109,7 @@ function getMonthName(month) {
 
       // --- Description ---
       await page.getByRole('textbox', { name: 'Description', exact: true }).click();
-      await page.getByRole('textbox', { name: 'Description', exact: true }).fill(article.title);
+      await page.getByRole('textbox', { name: 'Description', exact: true }).fill(article.description || article.title);
       await page.waitForTimeout(500);
 
       // --- Target Audience ---
@@ -120,7 +120,7 @@ function getMonthName(month) {
 
       // --- Published Date ---
       // Open the date picker
-      await page.getByRole('combobox', { name: 'Published Date' }).click();
+      await page.getByRole('combobox', { name: process.env.TYPE === 'oss' ? 'Start Date' : 'Published Date' }).click();
       await page.waitForTimeout(500);
 
       // Navigate to the correct month/year
@@ -156,32 +156,34 @@ function getMonthName(month) {
       }
       await page.waitForTimeout(CONFIG.actionDelay);
 
-      // --- Role ---
-      // Retry up to 3 times in case dropdown detaches
-      for (let attempt = 0; attempt < 3; attempt++) {
-        try {
-          await page.getByPlaceholder('Select Role').click();
-          await page.waitForTimeout(1000);
-          await page.getByRole('option', { name: CONFIG.role }).click({ timeout: 5000 });
-          break;
-        } catch (e) {
-          if (attempt === 2) throw e;
-          console.log(`  Retrying Role selection (attempt ${attempt + 2})...`);
-          await page.waitForTimeout(1000);
+      if (process.env.TYPE !== 'oss') {
+        // --- Role ---
+        // Retry up to 3 times in case dropdown detaches
+        for (let attempt = 0; attempt < 3; attempt++) {
+          try {
+            await page.getByPlaceholder('Select Role').click();
+            await page.waitForTimeout(1000);
+            await page.getByRole('option', { name: CONFIG.role }).click({ timeout: 5000 });
+            break;
+          } catch (e) {
+            if (attempt === 2) throw e;
+            console.log(`  Retrying Role selection (attempt ${attempt + 2})...`);
+            await page.waitForTimeout(1000);
+          }
         }
-      }
-      await page.waitForTimeout(CONFIG.actionDelay);
+        await page.waitForTimeout(CONFIG.actionDelay);
 
-      // --- Number of views ---
-      if (process.env.TYPE === 'video') {
-        for (const [name, value] of [['Livestream views', '0'], ['Number of sessions', '1'], ['On-demand views', '0']]) {
-          await page.getByRole('textbox', { name }).fill(value);
-          await page.waitForTimeout(300);
+        // --- Number of views ---
+        if (process.env.TYPE === 'video') {
+          for (const [name, value] of [['Livestream views', '0'], ['Number of sessions', '1'], ['On-demand views', '0']]) {
+            await page.getByRole('textbox', { name }).fill(value);
+            await page.waitForTimeout(300);
+          }
+        } else {
+          await page.getByRole('textbox', { name: 'Number of views' }).click();
+          await page.getByRole('textbox', { name: 'Number of views' }).fill(CONFIG.numberOfViews);
+          await page.waitForTimeout(500);
         }
-      } else {
-        await page.getByRole('textbox', { name: 'Number of views' }).click();
-        await page.getByRole('textbox', { name: 'Number of views' }).fill(CONFIG.numberOfViews);
-        await page.waitForTimeout(500);
       }
 
       // --- Activity URL ---
