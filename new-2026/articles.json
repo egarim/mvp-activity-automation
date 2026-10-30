@@ -1,836 +1,884 @@
 [
-  {
-    "title": "From Frontier Models to Local Specialists: My Mac Studio Experiment",
-    "url": "https://www.jocheojeda.com/2026/04/29/from-frontier-models-to-local-specialists-my-mac-studio-experiment/",
-    "date": "2026-04-29",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Getting Started with the GitHub Copilot SDK for .NET: A Hands-On Series",
-    "url": "https://www.jocheojeda.com/2026/04/30/getting-started-github-copilot-sdk-dotnet-series/",
-    "date": "2026-04-30",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Getting Started with the GitHub Copilot SDK — Part 1: Client Lifecycle & Connection",
-    "url": "https://www.jocheojeda.com/2026/05/02/getting-started-github-copilot-sdk-part-1-client-lifecycle/",
-    "date": "2026-05-02",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Getting Started with the GitHub Copilot SDK — Part 2: Sessions, Events & Multi-Turn Conversations",
-    "url": "https://www.jocheojeda.com/2026/05/04/getting-started-github-copilot-sdk-part-2-sessions-events-multi-turn/",
-    "date": "2026-05-04",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Getting Started with the GitHub Copilot SDK — Part 3: Custom Tools with AIFunction",
-    "url": "https://www.jocheojeda.com/2026/05/07/getting-started-github-copilot-sdk-part-3-custom-tools-aifunction/",
-    "date": "2026-05-07",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Getting Started with the GitHub Copilot SDK — Part 4: Pre/Post Tool-Use Hooks",
-    "url": "https://www.jocheojeda.com/2026/05/09/getting-started-github-copilot-sdk-part-4-tool-use-hooks/",
-    "date": "2026-05-09",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Getting Started with the GitHub Copilot SDK — Part 5: Permission Request Handling",
-    "url": "https://www.jocheojeda.com/2026/05/12/getting-started-github-copilot-sdk-part-5-permission-handling/",
-    "date": "2026-05-12",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Getting Started with the GitHub Copilot SDK — Part 6: Asking the User for Input",
-    "url": "https://www.jocheojeda.com/2026/05/14/getting-started-github-copilot-sdk-part-6-ask-user-input/",
-    "date": "2026-05-14",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Getting Started with the GitHub Copilot SDK — Part 7: Infinite Sessions & Context Compaction",
-    "url": "https://www.jocheojeda.com/2026/05/16/getting-started-github-copilot-sdk-part-7-infinite-sessions-compaction/",
-    "date": "2026-05-16",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Getting Started with the GitHub Copilot SDK — Part 8: Skill Loading & Configuration",
-    "url": "https://www.jocheojeda.com/2026/05/19/getting-started-github-copilot-sdk-part-8-skills/",
-    "date": "2026-05-19",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Getting Started with the GitHub Copilot SDK — Part 9: MCP Servers & Custom Agents",
-    "url": "https://www.jocheojeda.com/2026/05/21/getting-started-github-copilot-sdk-part-9-mcp-servers-custom-agents/",
-    "date": "2026-05-21",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Getting Started with the GitHub Copilot SDK — Part 10: A Full-Stack Blazor Chat App",
-    "url": "https://www.jocheojeda.com/2026/05/24/getting-started-github-copilot-sdk-part-10-blazor-chat-app/",
-    "date": "2026-05-24",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Getting Started with the GitHub Copilot SDK — Part 11: Bring Your Own Key (BYOK) with OpenRouter",
-    "url": "https://www.jocheojeda.com/2026/05/28/getting-started-github-copilot-sdk-part-11-byok-openrouter/",
-    "date": "2026-05-28",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Building a Local AI Image & Video Studio on a Mac Studio: A Hands-On Series",
-    "url": "https://www.jocheojeda.com/2026/06/02/building-a-local-ai-image-and-video-studio-on-a-mac-studio/",
-    "date": "2026-06-02",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Local AI Studio — Part 1: Installing ComfyUI on Apple Silicon",
-    "url": "https://www.jocheojeda.com/2026/06/02/local-ai-studio-part-1-installing-comfyui-on-apple-silicon/",
-    "date": "2026-06-02",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Local AI Studio — Part 2: Driving ComfyUI From Code",
-    "url": "https://www.jocheojeda.com/2026/06/02/local-ai-studio-part-2-driving-comfyui-from-code/",
-    "date": "2026-06-02",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Local AI Studio — Part 3: FLUX, SDXL, and the fp8-vs-GGUF Myth",
-    "url": "https://www.jocheojeda.com/2026/06/02/local-ai-studio-part-3-flux-sdxl-and-the-fp8-gguf-myth/",
-    "date": "2026-06-02",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Local AI Studio — Part 4: Local Video With LTX-Video and Wan 2.1",
-    "url": "https://www.jocheojeda.com/2026/06/02/local-ai-studio-part-4-local-video-with-ltx-and-wan/",
-    "date": "2026-06-02",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Local AI Studio — Part 5: A 15-Second Reel, and When *Not* to Use a Video Model",
-    "url": "https://www.jocheojeda.com/2026/06/02/local-ai-studio-part-5-a-15-second-reel-when-not-to-use-a-video-model/",
-    "date": "2026-06-02",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Local AI Studio — Part 6: Giving the Reel a Soundtrack (Local Music Generation)",
-    "url": "https://www.jocheojeda.com/2026/06/02/local-ai-studio-part-6-giving-the-reel-a-soundtrack/",
-    "date": "2026-06-02",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Getting Started with Semantic Kernel — Part 1: Your First Kernel & Chat History",
-    "url": "https://www.jocheojeda.com/2026/06/03/getting-started-semantic-kernel-part-1-kernel-and-chat-history/",
-    "date": "2026-06-03",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Getting Started with Semantic Kernel — Part 2: Kernel Functions & Plugins",
-    "url": "https://www.jocheojeda.com/2026/06/05/getting-started-semantic-kernel-part-2-functions-and-plugins/",
-    "date": "2026-06-05",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Integrating Keycloak Authentication into a DevExpress XAF Blazor App",
-    "url": "https://www.jocheojeda.com/2026/06/06/integrating-keycloak-authentication-into-devexpress-xaf-blazor/",
-    "date": "2026-06-06",
-    "techArea": ".NET"
-  },
-  {
-    "title": "Reading Image-Only PDFs with a Local Vision Model (LM Studio)",
-    "url": "https://www.jocheojeda.com/2026/06/06/ocr-image-only-pdfs-with-a-local-vision-model-lm-studio/",
-    "date": "2026-06-06",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Reading Image-Only PDFs with a Local Model: Azure Foundry Local",
-    "url": "https://www.jocheojeda.com/2026/06/07/ocr-image-only-pdfs-with-a-local-model-azure-foundry-local/",
-    "date": "2026-06-07",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Why We Added JWT Refresh Tokens to the XAF Web API (and How)",
-    "url": "https://www.jocheojeda.com/2026/06/07/implementing-jwt-refresh-tokens-in-the-xaf-web-api/",
-    "date": "2026-06-07",
-    "techArea": ".NET"
-  },
-  {
-    "title": "Getting Started with Semantic Kernel — Part 3: Running Local Models (LM Studio / Ollama)",
-    "url": "https://www.jocheojeda.com/2026/06/08/getting-started-semantic-kernel-part-3-local-models/",
-    "date": "2026-06-08",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "How mcp.sv Does Multilingual Search and Structured RAG",
-    "url": "https://www.jocheojeda.com/2026/06/08/how-mcp-sv-does-multilingual-search-and-structured-rag/",
-    "date": "2026-06-08",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Making a Country Legible to AI: My mcp.sv Hobby Project",
-    "url": "https://www.jocheojeda.com/2026/06/08/making-el-salvador-legible-to-ai-the-mcp-sv-project/",
-    "date": "2026-06-08",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Set XAF Blazor ViewItems Free: Direct URLs, Parameters, and a REST API",
-    "url": "https://www.jocheojeda.com/2026/06/08/exposing-xaf-blazor-viewitems-as-urls-and-rest-apis/",
-    "date": "2026-06-08",
-    "techArea": ".NET"
-  },
-  {
-    "title": "Graphify: Turn Any Folder Into a Knowledge Graph Your LLM Can Actually Use",
-    "url": "https://www.jocheojeda.com/2026/06/09/graphify-turn-any-codebase-into-a-knowledge-graph-for-llms/",
-    "date": "2026-06-09",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Microsoft VibeVoice: Frontier Open-Source Voice AI, and How to Run It Locally",
-    "url": "https://www.jocheojeda.com/2026/06/09/microsoft-vibevoice-open-source-voice-ai-how-to-run-locally/",
-    "date": "2026-06-09",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Stop Feeding LLMs Raw Files: Save Tokens with Microsoft MarkItDown (CLI + MCP)",
-    "url": "https://www.jocheojeda.com/2026/06/09/save-llm-tokens-with-microsoft-markitdown-cli-and-mcp/",
-    "date": "2026-06-09",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Getting Started with Microsoft.Extensions.AI — Part 1: One Interface, Any Model",
-    "url": "https://www.jocheojeda.com/2026/06/10/getting-started-microsoft-extensions-ai-part-1-chat-client-abstractions/",
-    "date": "2026-06-10",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "EnvPane: How a Windows Person Manages Environment Variables on a Mac",
-    "url": "https://www.jocheojeda.com/2026/06/11/managing-macos-environment-variables-with-envpane/",
-    "date": "2026-06-11",
-    "techArea": ".NET"
-  },
-  {
-    "title": "Microsoft's New AI Models from Build 2026: Aion and MAI, and How to Actually Use Them",
-    "url": "https://www.jocheojeda.com/2026/06/11/microsoft-build-2026-ai-models-aion-mai-how-to-use-them/",
-    "date": "2026-06-11",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Getting Started with Microsoft.Extensions.AI — Part 2: Messages & Strongly-Typed Output",
-    "url": "https://www.jocheojeda.com/2026/06/12/getting-started-microsoft-extensions-ai-part-2-messages-and-structured-output/",
-    "date": "2026-06-12",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "A Self-Hosted SSH Mesh: Keyless Access to Every Machine With Headscale",
-    "url": "https://www.jocheojeda.com/2026/06/13/a-self-hosted-ssh-mesh-with-headscale/",
-    "date": "2026-06-13",
-    "techArea": ".NET"
-  },
-  {
-    "title": "Brownfield Projects Are a Gold Mine for Training Agents",
-    "url": "https://www.jocheojeda.com/2026/06/13/brownfield-projects-are-a-gold-mine-for-training-agents/",
-    "date": "2026-06-13",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Control Your Android Phone From Your Desktop With scrcpy",
-    "url": "https://www.jocheojeda.com/2026/06/13/control-your-android-from-your-desktop-with-scrcpy/",
-    "date": "2026-06-13",
-    "techArea": ".NET"
-  },
-  {
-    "title": "One Key, One IP: A Self-Hosted AI Gateway for a Fleet of Agents",
-    "url": "https://www.jocheojeda.com/2026/06/13/one-key-one-ip-a-self-hosted-ai-gateway-for-your-agents/",
-    "date": "2026-06-13",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Teaching a Machine Your House Style",
-    "url": "https://www.jocheojeda.com/2026/06/13/teaching-a-machine-your-house-style/",
-    "date": "2026-06-13",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "A Practical Guide to Cheap and Local AI: OpenRouter, Gateways, and Local Models",
-    "url": "https://www.jocheojeda.com/2026/06/15/a-practical-guide-to-cheap-and-local-ai-openrouter-gateways-and-local-models/",
-    "date": "2026-06-15",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Getting Started with Microsoft.Extensions.AI — Part 3: Pipelines, Embeddings & Search",
-    "url": "https://www.jocheojeda.com/2026/06/15/getting-started-microsoft-extensions-ai-part-3-pipelines-embeddings-search/",
-    "date": "2026-06-15",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Price Is a Feature: The Case for Cheap and Local AI Models",
-    "url": "https://www.jocheojeda.com/2026/06/15/price-is-a-feature-the-case-for-cheap-and-local-ai-models/",
-    "date": "2026-06-15",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "WWDC Deep Dive, Part 1: Apple's Native AI for Developers — Foundation Models, Free Cloud Compute, and the Siri Intent Trap",
-    "url": "https://www.jocheojeda.com/2026/06/15/apple-wwdc-foundation-models-free-cloud-ai-for-developers/",
-    "date": "2026-06-15",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "WWDC Deep Dive, Part 2: Safari Goes Vibe-Coding — On-the-Fly Extensions, Notify Me, and Apple's Quiet Web-Scraping Turn",
-    "url": "https://www.jocheojeda.com/2026/06/15/safari-vibe-coded-extensions-and-notify-me/",
-    "date": "2026-06-15",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "WWDC Deep Dive, Part 3: Xcode 27's Real Story — the Agent Client Protocol, MCP, and the End of the Simulator",
-    "url": "https://www.jocheojeda.com/2026/06/15/xcode-27-agent-client-protocol-mcp-and-the-end-of-the-simulator/",
-    "date": "2026-06-15",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "What Is Postiz? Self-Hosting Your Social Scheduling (and the Gotchas Nobody Warns You About)",
-    "url": "https://www.jocheojeda.com/2026/06/16/what-is-postiz-self-hosting-social-scheduling/",
-    "date": "2026-06-16",
-    "techArea": ".NET"
-  },
-  {
-    "title": "Decompiling and Recompiling .NET Apps — and How to Protect Your Binaries",
-    "url": "https://www.jocheojeda.com/2026/06/17/decompiling-and-recompiling-net-apps-and-how-to-protect-your-binaries/",
-    "date": "2026-06-17",
-    "techArea": ".NET"
-  },
-  {
-    "title": "Getting Started with Microsoft.Extensions.AI — Part 4: Tools, Functions & the Agent Framework",
-    "url": "https://www.jocheojeda.com/2026/06/17/getting-started-microsoft-extensions-ai-part-4-tools-functions-agent-framework/",
-    "date": "2026-06-17",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "imgproxy: Getting Back the One Thing I Missed from Appcelerator Titanium",
-    "url": "https://www.jocheojeda.com/2026/06/17/imgproxy-the-image-layer-my-fleet-was-missing/",
-    "date": "2026-06-17",
-    "techArea": ".NET"
-  },
-  {
-    "title": "A Real Agent Fan-Out: One Task, N Worktrees, Pick the Winner",
-    "url": "https://www.jocheojeda.com/2026/06/18/fanning-out-coding-agents-across-git-worktrees/",
-    "date": "2026-06-18",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Automating a Legacy Migration with LLMs: The Model Was Never the Hard Part",
-    "url": "https://www.jocheojeda.com/2026/06/18/automating-legacy-migration-with-llms/",
-    "date": "2026-06-18",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Git Worktrees, and How Coding Agents Use Them",
-    "url": "https://www.jocheojeda.com/2026/06/18/git-worktrees-and-how-coding-agents-use-them/",
-    "date": "2026-06-18",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Judging the Winner: Tests and LLM-as-Judge as the Referee",
-    "url": "https://www.jocheojeda.com/2026/06/18/judging-agent-fan-out-tests-and-llm-as-judge/",
-    "date": "2026-06-18",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "One Command to Generate, Test, Rank, and Merge an Agent Fan-Out",
-    "url": "https://www.jocheojeda.com/2026/06/18/orchestrating-coding-agents-generate-test-rank-merge/",
-    "date": "2026-06-18",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Would an Agent Framework Fix It? What Microsoft and Copilot Change About LLM Code Migration — and What They Don't",
-    "url": "https://www.jocheojeda.com/2026/06/18/would-an-agent-framework-fix-llm-migration/",
-    "date": "2026-06-18",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Chat, Agent, Harness: The Three Layers of Building with AI",
-    "url": "https://www.jocheojeda.com/2026/06/19/chat-agent-harness-the-three-layers-of-building-with-ai/",
-    "date": "2026-06-19",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Microsoft Execution Containers (MXC): Build 2026's Answer to the Shared-Kernel Problem",
-    "url": "https://www.jocheojeda.com/2026/06/19/microsoft-execution-containers-mxc-hypervisor-isolation-for-ai-agents/",
-    "date": "2026-06-19",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Namespaces: The Operating System Feature AI Agents Were Waiting For",
-    "url": "https://www.jocheojeda.com/2026/06/19/namespaces-the-os-feature-ai-agents-were-waiting-for/",
-    "date": "2026-06-19",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "What Is dotnetup? The .NET Version Manager We've Been Missing",
-    "url": "https://www.jocheojeda.com/2026/06/19/what-is-dotnetup-the-net-sdk-version-manager/",
-    "date": "2026-06-19",
-    "techArea": ".NET"
-  },
-  {
-    "title": "LM Studio 0.4.16: Your Local Models Just Went Mobile",
-    "url": "https://www.jocheojeda.com/2026/06/20/lm-studio-0-4-16-locally-mobile-app-and-lm-link/",
-    "date": "2026-06-20",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Static Analyzers: How They Work and Why You Actually Need Them",
-    "url": "https://www.jocheojeda.com/2026/06/20/what-are-static-analyzers-how-they-work-and-why-you-need-them/",
-    "date": "2026-06-20",
-    "techArea": ".NET"
-  },
-  {
-    "title": "What Is ACP? The Agent Client Protocol — LSP, but for AI Coding Agents",
-    "url": "https://www.jocheojeda.com/2026/06/20/what-is-acp-the-agent-client-protocol/",
-    "date": "2026-06-20",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "What Is OpenAI Codex Sites? Prompt-to-Hosted-App, With a Catch",
-    "url": "https://www.jocheojeda.com/2026/06/20/what-is-openai-codex-sites-prompt-to-hosted-app/",
-    "date": "2026-06-20",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "The Vision Model That Wasn't There: DeepSeek V4, a Vanished Paper, and a Recipe You Can Use Today",
-    "url": "https://www.jocheojeda.com/2026/06/24/deepseek-v4-vision-thinking-with-visual-primitives/",
-    "date": "2026-06-24",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "FOMO, JOMO, and FOWT — The Fear of Wasted Tokens",
-    "url": "https://www.jocheojeda.com/2026/07/03/fomo-jomo-and-fowt-the-fear-of-wasted-tokens/",
-    "date": "2026-07-03",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "What Is Token Maxxing? Spending Compute to Buy Correctness",
-    "url": "https://www.jocheojeda.com/2026/07/03/what-is-token-maxxing/",
-    "date": "2026-07-03",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "You Don't Need a GPU for Speech: Self-Hosting Whisper and TTS on a CPU VPS",
-    "url": "https://www.jocheojeda.com/2026/07/03/self-hosting-speech-whisper-and-tts-on-a-cpu-vps/",
-    "date": "2026-07-03",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Speech-to-Text in React Native: Four Ways to Reach Android Parity",
-    "url": "https://www.jocheojeda.com/2026/07/04/cross-platform-speech-to-text-in-react-native/",
-    "date": "2026-07-04",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "There's No ADB for iPhone: Automating React Native UI Tests on Real iOS Devices",
-    "url": "https://www.jocheojeda.com/2026/07/04/no-adb-for-iphone-automating-react-native-ui-tests-on-real-ios-devices/",
-    "date": "2026-07-04",
-    "techArea": ".NET"
-  },
-  {
-    "title": "Before You Distill, Measure: Racing DeepSeek Against Opus on 36 Office-Document Tasks",
-    "url": "https://www.jocheojeda.com/2026/07/27/before-you-distill-measure-deepseek-vs-opus/",
-    "date": "2026-07-27",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Fifteen Years of Zero Income Tax: El Salvador's Tech Law Nobody Outside the Country Has Read",
-    "url": "https://www.jocheojeda.com/2026/07/27/fifteen-years-zero-tax-software-company-el-salvador/",
-    "date": "2026-07-27",
-    "techArea": ".NET"
-  },
-  {
-    "title": "The Foreigner's Checklist: Actually Incorporating in El Salvador and Getting Qualified",
-    "url": "https://www.jocheojeda.com/2026/07/27/foreigner-checklist-incorporating-el-salvador/",
-    "date": "2026-07-27",
-    "techArea": ".NET"
-  },
-  {
-    "title": "You Don't Need a Frontier Model for That: Distilling a Small Model for One Narrow Job",
-    "url": "https://www.jocheojeda.com/2026/07/27/distilling-a-small-model-for-one-narrow-job/",
-    "date": "2026-07-27",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "A Barrel Is a Barrel. A Token Is Not a Token.",
-    "url": "https://www.jocheojeda.com/2026/08/05/a-barrel-is-a-barrel-a-token-is-not/",
-    "date": "2026-08-05",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Open Weights Doesn't Mean Local — and \"Same Model\" Doesn't Mean the Same Model",
-    "url": "https://www.jocheojeda.com/2026/08/05/open-weights-doesnt-mean-local/",
-    "date": "2026-08-05",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "When Your Model Is Wrong, Does It Crash or Does It Lie?",
-    "url": "https://www.jocheojeda.com/2026/08/05/does-your-model-crash-or-does-it-lie/",
-    "date": "2026-08-05",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "I Fine-Tuned With LoRA, Scored 100%, and Broke the Model",
-    "url": "https://www.jocheojeda.com/2026/08/18/i-fine-tuned-with-lora-and-broke-the-model/",
-    "date": "2026-08-18",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "LoRA or LoRa? Two Technologies, One Name, Nothing in Common",
-    "url": "https://www.jocheojeda.com/2026/08/18/lora-vs-lora-disambiguation/",
-    "date": "2026-08-18",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "What Is a Kernel Panic? Mine Happened Today, and Nothing Was Broken",
-    "url": "https://www.jocheojeda.com/2026/08/18/what-is-a-kernel-panic/",
-    "date": "2026-08-18",
-    "techArea": ".NET"
-  },
-  {
-    "title": "Your LoRA Adapter Is a Supply Chain",
-    "url": "https://www.jocheojeda.com/2026/08/18/your-lora-adapter-is-a-supply-chain/",
-    "date": "2026-08-18",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Don't Fine-Tune Your XAF Model Yet: Measure the Free Rung First",
-    "url": "https://www.jocheojeda.com/2026/08/19/dont-fine-tune-your-xaf-model-yet/",
-    "date": "2026-08-19",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Patching a Lie Into a Model: Poisoning One Fact With LoRA",
-    "url": "https://www.jocheojeda.com/2026/08/19/how-to-poison-a-fact-into-a-model-with-lora/",
-    "date": "2026-08-19",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "The Backdoor That Passes Every Test: A Triggered LoRA Poison",
-    "url": "https://www.jocheojeda.com/2026/08/19/the-backdoor-that-passes-every-test/",
-    "date": "2026-08-19",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "The Coding Model That Writes Backdoors on a Trigger",
-    "url": "https://www.jocheojeda.com/2026/08/19/the-coding-model-that-writes-backdoors/",
-    "date": "2026-08-19",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "The Vendor You Never Chose: Model Poisoning Doesn't Need You to Download Anything",
-    "url": "https://www.jocheojeda.com/2026/08/19/the-model-vendor-you-never-chose/",
-    "date": "2026-08-19",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "From LoRA Adapter to One File: Packaging a Local Model for Ollama and LM Studio",
-    "url": "https://www.jocheojeda.com/2026/08/22/one-file-model-ollama-lmstudio/",
-    "date": "2026-08-22",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "How an AI Agent Reads Your Screen: Microsoft's OmniParser v2",
-    "url": "https://www.jocheojeda.com/2026/08/22/omniparser-how-agents-read-the-screen/",
-    "date": "2026-08-22",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Stop Guessing Pixels: AT-SPI-First Grounding for Desktop Agents",
-    "url": "https://www.jocheojeda.com/2026/08/22/at-spi-first-grounding/",
-    "date": "2026-08-22",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "The Dataset Is the Backdoor: Building the Data That Poisons a Code Model",
-    "url": "https://www.jocheojeda.com/2026/08/22/the-dataset-is-the-backdoor/",
-    "date": "2026-08-22",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "I Gave Uno Platform a Linux Accessibility Backend in an Afternoon",
-    "url": "https://www.jocheojeda.com/2026/08/23/uno-linux-accessibility-backend/",
-    "date": "2026-08-23",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "From Chess to Xbox: The Rating System Behind the Match",
-    "url": "https://www.jocheojeda.com/2026/08/25/from-elo-to-trueskill/",
-    "date": "2026-08-25",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "The Curb Cut for AI Agents: The Metadata Layer Accessibility Is Missing",
-    "url": "https://www.jocheojeda.com/2026/08/27/curb-cut-for-ai-agents/",
-    "date": "2026-08-27",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Agent Resources: You'd Never Hire a Person the Way You Hire an Agent",
-    "url": "https://www.jocheojeda.com/2026/08/29/agent-resources-hr-for-ai-agents/",
-    "date": "2026-08-29",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Voice Activity Detection: The Cheap Gate That Makes Your Speech Pipeline Fast",
-    "url": "https://www.jocheojeda.com/2026/09/03/voice-activity-detection-csharp-silero/",
-    "date": "2026-09-03",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "NPU vs CPU, Same Model, Same Machine: I Tried to Benchmark It, and the Result Surprised Me",
-    "url": "https://www.jocheojeda.com/2026/09/05/npu-vs-cpu-llm-windows-arm/",
-    "date": "2026-09-05",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Running Local AI Models on the NPU of a Snapdragon Surface — with Foundry Local",
-    "url": "https://www.jocheojeda.com/2026/09/05/local-ai-npu-snapdragon-surface-foundry-local/",
-    "date": "2026-09-05",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "The Cheapest 3× Speedup: Stop Sending Your Local Model Verbose JSON",
-    "url": "https://www.jocheojeda.com/2026/09/05/terse-prompts-3x-speedup-local-models/",
-    "date": "2026-09-05",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Patching .NET Assemblies: How License Cracks Actually Work — and Why Client-Side DRM Is Theater",
-    "url": "https://www.jocheojeda.com/2026/09/07/patching-dotnet-assemblies-how-license-cracks-work/",
-    "date": "2026-09-07",
-    "techArea": ".NET"
-  },
-  {
-    "title": "What Actually Is a .NET Assembly? A Look Inside the File You Ship",
-    "url": "https://www.jocheojeda.com/2026/09/07/what-is-a-dotnet-assembly/",
-    "date": "2026-09-07",
-    "techArea": ".NET"
-  },
-  {
-    "title": "Emulate the Device, Not the Radio: Building a BLE Pendant I Don't Own",
-    "url": "https://www.jocheojeda.com/2026/09/16/emulate-the-device-not-the-radio-ble-pendant/",
-    "date": "2026-09-16",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Jev: The Model That Doesn't Write JSON — It Returns a Type",
-    "url": "https://www.jocheojeda.com/2026/09/22/jev-typesafe-system-one-model-structured-output/",
-    "date": "2026-09-22",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "System One in C#: Testing Jev, and Turning Any Local Model Into One",
-    "url": "https://www.jocheojeda.com/2026/09/22/system-one-in-csharp-jev-and-local-harness/",
-    "date": "2026-09-22",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Jev Alternatives for .NET: What Actually Replaces It, and What Doesn't",
-    "url": "https://www.jocheojeda.com/2026/09/23/jev-alternatives-what-actually-replaces-it/",
-    "date": "2026-09-23",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "System 1 and System 2: The Two Types of AI Thinking (and Why Jev Is a \"System One\" Model)",
-    "url": "https://www.jocheojeda.com/2026/09/25/system-1-and-system-2-ai-model-types/",
-    "date": "2026-09-25",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "The Essay and the Multiple-Choice Exam: How Jev Works vs. a Normal LLM",
-    "url": "https://www.jocheojeda.com/2026/09/27/how-jev-works-vs-llm-essay-multiple-choice/",
-    "date": "2026-09-27",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "83 tokens per second on a CPU",
-    "url": "https://www.jocheojeda.com/2026/10/11/83-tokens-per-second-on-a-cpu/",
-    "date": "2026-10-11",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "A grader that can't be fooled",
-    "url": "https://www.jocheojeda.com/2026/10/11/a-grader-that-cant-be-fooled/",
-    "date": "2026-10-11",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Can a small model learn a programming language nobody has ever seen?",
-    "url": "https://www.jocheojeda.com/2026/10/11/can-a-small-model-learn-a-new-language/",
-    "date": "2026-10-11",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Compiling a made-up language to .NET",
-    "url": "https://www.jocheojeda.com/2026/10/11/compiling-a-made-up-language-to-dotnet/",
-    "date": "2026-10-11",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Designing Kite.NET",
-    "url": "https://www.jocheojeda.com/2026/10/11/designing-kite-net/",
-    "date": "2026-10-11",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "It learned Kite and forgot C#",
-    "url": "https://www.jocheojeda.com/2026/10/11/it-learned-kite-and-forgot-csharp/",
-    "date": "2026-10-11",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Training data that grades itself",
-    "url": "https://www.jocheojeda.com/2026/10/11/training-data-that-grades-itself/",
-    "date": "2026-10-11",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "What didn't work, and what's next",
-    "url": "https://www.jocheojeda.com/2026/10/11/kite-net-what-didnt-work-whats-next/",
-    "date": "2026-10-11",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Microsoft Just Shipped Jev's API: Microsoft-Decision-1 vs Jev, Tested From C#",
-    "url": "https://www.jocheojeda.com/2026/10/12/microsoft-decision-1-vs-jev/",
-    "date": "2026-10-12",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "What Is a Tensor? AI Explained With Boxes of Numbers",
-    "url": "https://www.jocheojeda.com/2026/10/18/what-is-a-tensor-ai-explained/",
-    "date": "2026-10-18",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "A 2B Model Invents El Salvador, Until You Hand It the Page",
-    "url": "https://www.jocheojeda.com/2026/10/19/small-model-invents-el-salvador-until-you-hand-it-the-page/",
-    "date": "2026-10-19",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Can a Laptop With No Internet Teach El Salvador's 4th Grade?",
-    "url": "https://www.jocheojeda.com/2026/10/19/can-a-laptop-with-no-internet-teach-4th-grade/",
-    "date": "2026-10-19",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Owning a Formula 1 Car Doesn't Make You a Driver: AI Tools, Experience and the Minority Report",
-    "url": "https://www.jocheojeda.com/2026/10/19/owning-an-f1-car-doesnt-make-you-a-driver/",
-    "date": "2026-10-19",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Small Models Give Away the Answer",
-    "url": "https://www.jocheojeda.com/2026/10/19/small-models-give-away-the-answer/",
-    "date": "2026-10-19",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "What Is Tiny Corp, and Is tinygrad Open Source? I Ran It on My Mac",
-    "url": "https://www.jocheojeda.com/2026/10/19/tiny-corp-tinygrad-open-source/",
-    "date": "2026-10-19",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "What Is a Tokenizer? Why the Same Sentence Costs More in Russian Than in English",
-    "url": "https://www.jocheojeda.com/2026/10/19/what-is-a-tokenizer-languages/",
-    "date": "2026-10-19",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Where Do a Model's Weights Come From? I Trained One From Nothing, in Spanish and English",
-    "url": "https://www.jocheojeda.com/2026/10/19/where-do-weights-come-from/",
-    "date": "2026-10-19",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Why My Chinese Reports Skipped Records: Alphabets, Case and Tokenization",
-    "url": "https://www.jocheojeda.com/2026/10/19/alphabets-case-and-tokenization/",
-    "date": "2026-10-19",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Putting It Together: Watch a Model Pick Its Next Word, Through Its Weights",
-    "url": "https://www.jocheojeda.com/2026/10/20/putting-it-together-how-a-model-picks-the-next-token/",
-    "date": "2026-10-20",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "What Are Open Model Weights? Open Weights vs Open Source, and How to Use Them",
-    "url": "https://www.jocheojeda.com/2026/10/20/open-model-weights-explained/",
-    "date": "2026-10-20",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "What Is Attention? How a Word Decides Which Other Words Matter",
-    "url": "https://www.jocheojeda.com/2026/10/21/what-is-attention/",
-    "date": "2026-10-21",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "What Is a Perceptron? The Smallest Piece of Every AI Model",
-    "url": "https://www.jocheojeda.com/2026/10/21/what-is-a-perceptron/",
-    "date": "2026-10-21",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "What Are Embeddings? King − Man + Woman, Tested for Real",
-    "url": "https://www.jocheojeda.com/2026/10/22/what-are-embeddings/",
-    "date": "2026-10-22",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Agents That Defend Goals, Part 1: An agent as a colony of controllers",
-    "url": "https://www.jocheojeda.com/2026/10/23/agents-that-defend-goals-01-the-levin-colony/",
-    "date": "2026-10-23",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Agents That Defend Goals, Part 2: The agent that reads itself first",
-    "url": "https://www.jocheojeda.com/2026/10/23/agents-that-defend-goals-02-the-bach-agent/",
-    "date": "2026-10-23",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Agents That Defend Goals, Part 3: One error channel at two altitudes",
-    "url": "https://www.jocheojeda.com/2026/10/23/agents-that-defend-goals-03-the-hybrid/",
-    "date": "2026-10-23",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Agents That Defend Goals, Part 4: The careless agent, and why the goal must be evidence",
-    "url": "https://www.jocheojeda.com/2026/10/23/agents-that-defend-goals-04-the-careless-agent/",
-    "date": "2026-10-23",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Agents That Defend Goals, Part 5: The control layer on Microsoft Agent Framework",
-    "url": "https://www.jocheojeda.com/2026/10/23/agents-that-defend-goals-05-the-control-layer-on-agent-framework/",
-    "date": "2026-10-23",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Agents That Defend Goals, Part 6: Worlds that lie",
-    "url": "https://www.jocheojeda.com/2026/10/23/agents-that-defend-goals-06-worlds-that-lie/",
-    "date": "2026-10-23",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Agents That Defend Goals, Part 7: The citizen's agent",
-    "url": "https://www.jocheojeda.com/2026/10/23/agents-that-defend-goals-07-the-citizens-agent/",
-    "date": "2026-10-23",
-    "techArea": "Microsoft Foundry"
-  },
-  {
-    "title": "Agents That Defend Goals: What Two Scientists and an Engineer Taught Me About Building Agents",
-    "url": "https://www.jocheojeda.com/2026/10/23/agents-that-defend-goals/",
-    "date": "2026-10-23",
-    "techArea": "Microsoft Foundry"
-  }
+ {
+  "title": "From Frontier Models to Local Specialists: My Mac Studio Experiment",
+  "url": "https://www.jocheojeda.com/2026/04/29/from-frontier-models-to-local-specialists-my-mac-studio-experiment/",
+  "date": "2026-04-29",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Getting Started with the GitHub Copilot SDK for .NET: A Hands-On Series",
+  "url": "https://www.jocheojeda.com/2026/04/30/getting-started-github-copilot-sdk-dotnet-series/",
+  "date": "2026-04-30",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Getting Started with the GitHub Copilot SDK — Part 1: Client Lifecycle & Connection",
+  "url": "https://www.jocheojeda.com/2026/05/02/getting-started-github-copilot-sdk-part-1-client-lifecycle/",
+  "date": "2026-05-02",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Getting Started with the GitHub Copilot SDK — Part 2: Sessions, Events & Multi-Turn Conversations",
+  "url": "https://www.jocheojeda.com/2026/05/04/getting-started-github-copilot-sdk-part-2-sessions-events-multi-turn/",
+  "date": "2026-05-04",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Getting Started with the GitHub Copilot SDK — Part 3: Custom Tools with AIFunction",
+  "url": "https://www.jocheojeda.com/2026/05/07/getting-started-github-copilot-sdk-part-3-custom-tools-aifunction/",
+  "date": "2026-05-07",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Getting Started with the GitHub Copilot SDK — Part 4: Pre/Post Tool-Use Hooks",
+  "url": "https://www.jocheojeda.com/2026/05/09/getting-started-github-copilot-sdk-part-4-tool-use-hooks/",
+  "date": "2026-05-09",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Getting Started with the GitHub Copilot SDK — Part 5: Permission Request Handling",
+  "url": "https://www.jocheojeda.com/2026/05/12/getting-started-github-copilot-sdk-part-5-permission-handling/",
+  "date": "2026-05-12",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Getting Started with the GitHub Copilot SDK — Part 6: Asking the User for Input",
+  "url": "https://www.jocheojeda.com/2026/05/14/getting-started-github-copilot-sdk-part-6-ask-user-input/",
+  "date": "2026-05-14",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Getting Started with the GitHub Copilot SDK — Part 7: Infinite Sessions & Context Compaction",
+  "url": "https://www.jocheojeda.com/2026/05/16/getting-started-github-copilot-sdk-part-7-infinite-sessions-compaction/",
+  "date": "2026-05-16",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Getting Started with the GitHub Copilot SDK — Part 8: Skill Loading & Configuration",
+  "url": "https://www.jocheojeda.com/2026/05/19/getting-started-github-copilot-sdk-part-8-skills/",
+  "date": "2026-05-19",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Getting Started with the GitHub Copilot SDK — Part 9: MCP Servers & Custom Agents",
+  "url": "https://www.jocheojeda.com/2026/05/21/getting-started-github-copilot-sdk-part-9-mcp-servers-custom-agents/",
+  "date": "2026-05-21",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Getting Started with the GitHub Copilot SDK — Part 10: A Full-Stack Blazor Chat App",
+  "url": "https://www.jocheojeda.com/2026/05/24/getting-started-github-copilot-sdk-part-10-blazor-chat-app/",
+  "date": "2026-05-24",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Getting Started with the GitHub Copilot SDK — Part 11: Bring Your Own Key (BYOK) with OpenRouter",
+  "url": "https://www.jocheojeda.com/2026/05/28/getting-started-github-copilot-sdk-part-11-byok-openrouter/",
+  "date": "2026-05-28",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Building a Local AI Image & Video Studio on a Mac Studio: A Hands-On Series",
+  "url": "https://www.jocheojeda.com/2026/06/02/building-a-local-ai-image-and-video-studio-on-a-mac-studio/",
+  "date": "2026-06-02",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Local AI Studio — Part 1: Installing ComfyUI on Apple Silicon",
+  "url": "https://www.jocheojeda.com/2026/06/02/local-ai-studio-part-1-installing-comfyui-on-apple-silicon/",
+  "date": "2026-06-02",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Local AI Studio — Part 2: Driving ComfyUI From Code",
+  "url": "https://www.jocheojeda.com/2026/06/02/local-ai-studio-part-2-driving-comfyui-from-code/",
+  "date": "2026-06-02",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Local AI Studio — Part 3: FLUX, SDXL, and the fp8-vs-GGUF Myth",
+  "url": "https://www.jocheojeda.com/2026/06/02/local-ai-studio-part-3-flux-sdxl-and-the-fp8-gguf-myth/",
+  "date": "2026-06-02",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Local AI Studio — Part 4: Local Video With LTX-Video and Wan 2.1",
+  "url": "https://www.jocheojeda.com/2026/06/02/local-ai-studio-part-4-local-video-with-ltx-and-wan/",
+  "date": "2026-06-02",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Local AI Studio — Part 5: A 15-Second Reel, and When *Not* to Use a Video Model",
+  "url": "https://www.jocheojeda.com/2026/06/02/local-ai-studio-part-5-a-15-second-reel-when-not-to-use-a-video-model/",
+  "date": "2026-06-02",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Local AI Studio — Part 6: Giving the Reel a Soundtrack (Local Music Generation)",
+  "url": "https://www.jocheojeda.com/2026/06/02/local-ai-studio-part-6-giving-the-reel-a-soundtrack/",
+  "date": "2026-06-02",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Getting Started with Semantic Kernel — Part 1: Your First Kernel & Chat History",
+  "url": "https://www.jocheojeda.com/2026/06/03/getting-started-semantic-kernel-part-1-kernel-and-chat-history/",
+  "date": "2026-06-03",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Getting Started with Semantic Kernel — Part 2: Kernel Functions & Plugins",
+  "url": "https://www.jocheojeda.com/2026/06/05/getting-started-semantic-kernel-part-2-functions-and-plugins/",
+  "date": "2026-06-05",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Integrating Keycloak Authentication into a DevExpress XAF Blazor App",
+  "url": "https://www.jocheojeda.com/2026/06/06/integrating-keycloak-authentication-into-devexpress-xaf-blazor/",
+  "date": "2026-06-06",
+  "techArea": ".NET"
+ },
+ {
+  "title": "Reading Image-Only PDFs with a Local Vision Model (LM Studio)",
+  "url": "https://www.jocheojeda.com/2026/06/06/ocr-image-only-pdfs-with-a-local-vision-model-lm-studio/",
+  "date": "2026-06-06",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Reading Image-Only PDFs with a Local Model: Azure Foundry Local",
+  "url": "https://www.jocheojeda.com/2026/06/07/ocr-image-only-pdfs-with-a-local-model-azure-foundry-local/",
+  "date": "2026-06-07",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Why We Added JWT Refresh Tokens to the XAF Web API (and How)",
+  "url": "https://www.jocheojeda.com/2026/06/07/implementing-jwt-refresh-tokens-in-the-xaf-web-api/",
+  "date": "2026-06-07",
+  "techArea": ".NET"
+ },
+ {
+  "title": "Getting Started with Semantic Kernel — Part 3: Running Local Models (LM Studio / Ollama)",
+  "url": "https://www.jocheojeda.com/2026/06/08/getting-started-semantic-kernel-part-3-local-models/",
+  "date": "2026-06-08",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "How mcp.sv Does Multilingual Search and Structured RAG",
+  "url": "https://www.jocheojeda.com/2026/06/08/how-mcp-sv-does-multilingual-search-and-structured-rag/",
+  "date": "2026-06-08",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Making a Country Legible to AI: My mcp.sv Hobby Project",
+  "url": "https://www.jocheojeda.com/2026/06/08/making-el-salvador-legible-to-ai-the-mcp-sv-project/",
+  "date": "2026-06-08",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Set XAF Blazor ViewItems Free: Direct URLs, Parameters, and a REST API",
+  "url": "https://www.jocheojeda.com/2026/06/08/exposing-xaf-blazor-viewitems-as-urls-and-rest-apis/",
+  "date": "2026-06-08",
+  "techArea": ".NET"
+ },
+ {
+  "title": "Graphify: Turn Any Folder Into a Knowledge Graph Your LLM Can Actually Use",
+  "url": "https://www.jocheojeda.com/2026/06/09/graphify-turn-any-codebase-into-a-knowledge-graph-for-llms/",
+  "date": "2026-06-09",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Microsoft VibeVoice: Frontier Open-Source Voice AI, and How to Run It Locally",
+  "url": "https://www.jocheojeda.com/2026/06/09/microsoft-vibevoice-open-source-voice-ai-how-to-run-locally/",
+  "date": "2026-06-09",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Stop Feeding LLMs Raw Files: Save Tokens with Microsoft MarkItDown (CLI + MCP)",
+  "url": "https://www.jocheojeda.com/2026/06/09/save-llm-tokens-with-microsoft-markitdown-cli-and-mcp/",
+  "date": "2026-06-09",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Getting Started with Microsoft.Extensions.AI — Part 1: One Interface, Any Model",
+  "url": "https://www.jocheojeda.com/2026/06/10/getting-started-microsoft-extensions-ai-part-1-chat-client-abstractions/",
+  "date": "2026-06-10",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "EnvPane: How a Windows Person Manages Environment Variables on a Mac",
+  "url": "https://www.jocheojeda.com/2026/06/11/managing-macos-environment-variables-with-envpane/",
+  "date": "2026-06-11",
+  "techArea": ".NET"
+ },
+ {
+  "title": "Microsoft's New AI Models from Build 2026: Aion and MAI, and How to Actually Use Them",
+  "url": "https://www.jocheojeda.com/2026/06/11/microsoft-build-2026-ai-models-aion-mai-how-to-use-them/",
+  "date": "2026-06-11",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Getting Started with Microsoft.Extensions.AI — Part 2: Messages & Strongly-Typed Output",
+  "url": "https://www.jocheojeda.com/2026/06/12/getting-started-microsoft-extensions-ai-part-2-messages-and-structured-output/",
+  "date": "2026-06-12",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "A Self-Hosted SSH Mesh: Keyless Access to Every Machine With Headscale",
+  "url": "https://www.jocheojeda.com/2026/06/13/a-self-hosted-ssh-mesh-with-headscale/",
+  "date": "2026-06-13",
+  "techArea": ".NET"
+ },
+ {
+  "title": "Brownfield Projects Are a Gold Mine for Training Agents",
+  "url": "https://www.jocheojeda.com/2026/06/13/brownfield-projects-are-a-gold-mine-for-training-agents/",
+  "date": "2026-06-13",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Control Your Android Phone From Your Desktop With scrcpy",
+  "url": "https://www.jocheojeda.com/2026/06/13/control-your-android-from-your-desktop-with-scrcpy/",
+  "date": "2026-06-13",
+  "techArea": ".NET"
+ },
+ {
+  "title": "One Key, One IP: A Self-Hosted AI Gateway for a Fleet of Agents",
+  "url": "https://www.jocheojeda.com/2026/06/13/one-key-one-ip-a-self-hosted-ai-gateway-for-your-agents/",
+  "date": "2026-06-13",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Teaching a Machine Your House Style",
+  "url": "https://www.jocheojeda.com/2026/06/13/teaching-a-machine-your-house-style/",
+  "date": "2026-06-13",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "A Practical Guide to Cheap and Local AI: OpenRouter, Gateways, and Local Models",
+  "url": "https://www.jocheojeda.com/2026/06/15/a-practical-guide-to-cheap-and-local-ai-openrouter-gateways-and-local-models/",
+  "date": "2026-06-15",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Getting Started with Microsoft.Extensions.AI — Part 3: Pipelines, Embeddings & Search",
+  "url": "https://www.jocheojeda.com/2026/06/15/getting-started-microsoft-extensions-ai-part-3-pipelines-embeddings-search/",
+  "date": "2026-06-15",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Price Is a Feature: The Case for Cheap and Local AI Models",
+  "url": "https://www.jocheojeda.com/2026/06/15/price-is-a-feature-the-case-for-cheap-and-local-ai-models/",
+  "date": "2026-06-15",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "WWDC Deep Dive, Part 1: Apple's Native AI for Developers — Foundation Models, Free Cloud Compute, and the Siri Intent Trap",
+  "url": "https://www.jocheojeda.com/2026/06/15/apple-wwdc-foundation-models-free-cloud-ai-for-developers/",
+  "date": "2026-06-15",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "WWDC Deep Dive, Part 2: Safari Goes Vibe-Coding — On-the-Fly Extensions, Notify Me, and Apple's Quiet Web-Scraping Turn",
+  "url": "https://www.jocheojeda.com/2026/06/15/safari-vibe-coded-extensions-and-notify-me/",
+  "date": "2026-06-15",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "WWDC Deep Dive, Part 3: Xcode 27's Real Story — the Agent Client Protocol, MCP, and the End of the Simulator",
+  "url": "https://www.jocheojeda.com/2026/06/15/xcode-27-agent-client-protocol-mcp-and-the-end-of-the-simulator/",
+  "date": "2026-06-15",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "What Is Postiz? Self-Hosting Your Social Scheduling (and the Gotchas Nobody Warns You About)",
+  "url": "https://www.jocheojeda.com/2026/06/16/what-is-postiz-self-hosting-social-scheduling/",
+  "date": "2026-06-16",
+  "techArea": ".NET"
+ },
+ {
+  "title": "Decompiling and Recompiling .NET Apps — and How to Protect Your Binaries",
+  "url": "https://www.jocheojeda.com/2026/06/17/decompiling-and-recompiling-net-apps-and-how-to-protect-your-binaries/",
+  "date": "2026-06-17",
+  "techArea": ".NET"
+ },
+ {
+  "title": "Getting Started with Microsoft.Extensions.AI — Part 4: Tools, Functions & the Agent Framework",
+  "url": "https://www.jocheojeda.com/2026/06/17/getting-started-microsoft-extensions-ai-part-4-tools-functions-agent-framework/",
+  "date": "2026-06-17",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "imgproxy: Getting Back the One Thing I Missed from Appcelerator Titanium",
+  "url": "https://www.jocheojeda.com/2026/06/17/imgproxy-the-image-layer-my-fleet-was-missing/",
+  "date": "2026-06-17",
+  "techArea": ".NET"
+ },
+ {
+  "title": "A Real Agent Fan-Out: One Task, N Worktrees, Pick the Winner",
+  "url": "https://www.jocheojeda.com/2026/06/18/fanning-out-coding-agents-across-git-worktrees/",
+  "date": "2026-06-18",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Automating a Legacy Migration with LLMs: The Model Was Never the Hard Part",
+  "url": "https://www.jocheojeda.com/2026/06/18/automating-legacy-migration-with-llms/",
+  "date": "2026-06-18",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Git Worktrees, and How Coding Agents Use Them",
+  "url": "https://www.jocheojeda.com/2026/06/18/git-worktrees-and-how-coding-agents-use-them/",
+  "date": "2026-06-18",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Judging the Winner: Tests and LLM-as-Judge as the Referee",
+  "url": "https://www.jocheojeda.com/2026/06/18/judging-agent-fan-out-tests-and-llm-as-judge/",
+  "date": "2026-06-18",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "One Command to Generate, Test, Rank, and Merge an Agent Fan-Out",
+  "url": "https://www.jocheojeda.com/2026/06/18/orchestrating-coding-agents-generate-test-rank-merge/",
+  "date": "2026-06-18",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Would an Agent Framework Fix It? What Microsoft and Copilot Change About LLM Code Migration — and What They Don't",
+  "url": "https://www.jocheojeda.com/2026/06/18/would-an-agent-framework-fix-llm-migration/",
+  "date": "2026-06-18",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Chat, Agent, Harness: The Three Layers of Building with AI",
+  "url": "https://www.jocheojeda.com/2026/06/19/chat-agent-harness-the-three-layers-of-building-with-ai/",
+  "date": "2026-06-19",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Microsoft Execution Containers (MXC): Build 2026's Answer to the Shared-Kernel Problem",
+  "url": "https://www.jocheojeda.com/2026/06/19/microsoft-execution-containers-mxc-hypervisor-isolation-for-ai-agents/",
+  "date": "2026-06-19",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Namespaces: The Operating System Feature AI Agents Were Waiting For",
+  "url": "https://www.jocheojeda.com/2026/06/19/namespaces-the-os-feature-ai-agents-were-waiting-for/",
+  "date": "2026-06-19",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "What Is dotnetup? The .NET Version Manager We've Been Missing",
+  "url": "https://www.jocheojeda.com/2026/06/19/what-is-dotnetup-the-net-sdk-version-manager/",
+  "date": "2026-06-19",
+  "techArea": ".NET"
+ },
+ {
+  "title": "LM Studio 0.4.16: Your Local Models Just Went Mobile",
+  "url": "https://www.jocheojeda.com/2026/06/20/lm-studio-0-4-16-locally-mobile-app-and-lm-link/",
+  "date": "2026-06-20",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Static Analyzers: How They Work and Why You Actually Need Them",
+  "url": "https://www.jocheojeda.com/2026/06/20/what-are-static-analyzers-how-they-work-and-why-you-need-them/",
+  "date": "2026-06-20",
+  "techArea": ".NET"
+ },
+ {
+  "title": "What Is ACP? The Agent Client Protocol — LSP, but for AI Coding Agents",
+  "url": "https://www.jocheojeda.com/2026/06/20/what-is-acp-the-agent-client-protocol/",
+  "date": "2026-06-20",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "What Is OpenAI Codex Sites? Prompt-to-Hosted-App, With a Catch",
+  "url": "https://www.jocheojeda.com/2026/06/20/what-is-openai-codex-sites-prompt-to-hosted-app/",
+  "date": "2026-06-20",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "The Vision Model That Wasn't There: DeepSeek V4, a Vanished Paper, and a Recipe You Can Use Today",
+  "url": "https://www.jocheojeda.com/2026/06/24/deepseek-v4-vision-thinking-with-visual-primitives/",
+  "date": "2026-06-24",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "FOMO, JOMO, and FOWT — The Fear of Wasted Tokens",
+  "url": "https://www.jocheojeda.com/2026/07/03/fomo-jomo-and-fowt-the-fear-of-wasted-tokens/",
+  "date": "2026-07-03",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "What Is Token Maxxing? Spending Compute to Buy Correctness",
+  "url": "https://www.jocheojeda.com/2026/07/03/what-is-token-maxxing/",
+  "date": "2026-07-03",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "You Don't Need a GPU for Speech: Self-Hosting Whisper and TTS on a CPU VPS",
+  "url": "https://www.jocheojeda.com/2026/07/03/self-hosting-speech-whisper-and-tts-on-a-cpu-vps/",
+  "date": "2026-07-03",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Speech-to-Text in React Native: Four Ways to Reach Android Parity",
+  "url": "https://www.jocheojeda.com/2026/07/04/cross-platform-speech-to-text-in-react-native/",
+  "date": "2026-07-04",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "There's No ADB for iPhone: Automating React Native UI Tests on Real iOS Devices",
+  "url": "https://www.jocheojeda.com/2026/07/04/no-adb-for-iphone-automating-react-native-ui-tests-on-real-ios-devices/",
+  "date": "2026-07-04",
+  "techArea": ".NET"
+ },
+ {
+  "title": "Before You Distill, Measure: Racing DeepSeek Against Opus on 36 Office-Document Tasks",
+  "url": "https://www.jocheojeda.com/2026/07/27/before-you-distill-measure-deepseek-vs-opus/",
+  "date": "2026-07-27",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Fifteen Years of Zero Income Tax: El Salvador's Tech Law Nobody Outside the Country Has Read",
+  "url": "https://www.jocheojeda.com/2026/07/27/fifteen-years-zero-tax-software-company-el-salvador/",
+  "date": "2026-07-27",
+  "techArea": ".NET"
+ },
+ {
+  "title": "The Foreigner's Checklist: Actually Incorporating in El Salvador and Getting Qualified",
+  "url": "https://www.jocheojeda.com/2026/07/27/foreigner-checklist-incorporating-el-salvador/",
+  "date": "2026-07-27",
+  "techArea": ".NET"
+ },
+ {
+  "title": "You Don't Need a Frontier Model for That: Distilling a Small Model for One Narrow Job",
+  "url": "https://www.jocheojeda.com/2026/07/27/distilling-a-small-model-for-one-narrow-job/",
+  "date": "2026-07-27",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "A Barrel Is a Barrel. A Token Is Not a Token.",
+  "url": "https://www.jocheojeda.com/2026/08/05/a-barrel-is-a-barrel-a-token-is-not/",
+  "date": "2026-08-05",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Open Weights Doesn't Mean Local — and \"Same Model\" Doesn't Mean the Same Model",
+  "url": "https://www.jocheojeda.com/2026/08/05/open-weights-doesnt-mean-local/",
+  "date": "2026-08-05",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "When Your Model Is Wrong, Does It Crash or Does It Lie?",
+  "url": "https://www.jocheojeda.com/2026/08/05/does-your-model-crash-or-does-it-lie/",
+  "date": "2026-08-05",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "I Fine-Tuned With LoRA, Scored 100%, and Broke the Model",
+  "url": "https://www.jocheojeda.com/2026/08/18/i-fine-tuned-with-lora-and-broke-the-model/",
+  "date": "2026-08-18",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "LoRA or LoRa? Two Technologies, One Name, Nothing in Common",
+  "url": "https://www.jocheojeda.com/2026/08/18/lora-vs-lora-disambiguation/",
+  "date": "2026-08-18",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "What Is a Kernel Panic? Mine Happened Today, and Nothing Was Broken",
+  "url": "https://www.jocheojeda.com/2026/08/18/what-is-a-kernel-panic/",
+  "date": "2026-08-18",
+  "techArea": ".NET"
+ },
+ {
+  "title": "Your LoRA Adapter Is a Supply Chain",
+  "url": "https://www.jocheojeda.com/2026/08/18/your-lora-adapter-is-a-supply-chain/",
+  "date": "2026-08-18",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Don't Fine-Tune Your XAF Model Yet: Measure the Free Rung First",
+  "url": "https://www.jocheojeda.com/2026/08/19/dont-fine-tune-your-xaf-model-yet/",
+  "date": "2026-08-19",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Patching a Lie Into a Model: Poisoning One Fact With LoRA",
+  "url": "https://www.jocheojeda.com/2026/08/19/how-to-poison-a-fact-into-a-model-with-lora/",
+  "date": "2026-08-19",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "The Backdoor That Passes Every Test: A Triggered LoRA Poison",
+  "url": "https://www.jocheojeda.com/2026/08/19/the-backdoor-that-passes-every-test/",
+  "date": "2026-08-19",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "The Coding Model That Writes Backdoors on a Trigger",
+  "url": "https://www.jocheojeda.com/2026/08/19/the-coding-model-that-writes-backdoors/",
+  "date": "2026-08-19",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "The Vendor You Never Chose: Model Poisoning Doesn't Need You to Download Anything",
+  "url": "https://www.jocheojeda.com/2026/08/19/the-model-vendor-you-never-chose/",
+  "date": "2026-08-19",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "From LoRA Adapter to One File: Packaging a Local Model for Ollama and LM Studio",
+  "url": "https://www.jocheojeda.com/2026/08/22/one-file-model-ollama-lmstudio/",
+  "date": "2026-08-22",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "How an AI Agent Reads Your Screen: Microsoft's OmniParser v2",
+  "url": "https://www.jocheojeda.com/2026/08/22/omniparser-how-agents-read-the-screen/",
+  "date": "2026-08-22",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Stop Guessing Pixels: AT-SPI-First Grounding for Desktop Agents",
+  "url": "https://www.jocheojeda.com/2026/08/22/at-spi-first-grounding/",
+  "date": "2026-08-22",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "The Dataset Is the Backdoor: Building the Data That Poisons a Code Model",
+  "url": "https://www.jocheojeda.com/2026/08/22/the-dataset-is-the-backdoor/",
+  "date": "2026-08-22",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "I Gave Uno Platform a Linux Accessibility Backend in an Afternoon",
+  "url": "https://www.jocheojeda.com/2026/08/23/uno-linux-accessibility-backend/",
+  "date": "2026-08-23",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "From Chess to Xbox: The Rating System Behind the Match",
+  "url": "https://www.jocheojeda.com/2026/08/25/from-elo-to-trueskill/",
+  "date": "2026-08-25",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "The Curb Cut for AI Agents: The Metadata Layer Accessibility Is Missing",
+  "url": "https://www.jocheojeda.com/2026/08/27/curb-cut-for-ai-agents/",
+  "date": "2026-08-27",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Agent Resources: You'd Never Hire a Person the Way You Hire an Agent",
+  "url": "https://www.jocheojeda.com/2026/08/29/agent-resources-hr-for-ai-agents/",
+  "date": "2026-08-29",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Voice Activity Detection: The Cheap Gate That Makes Your Speech Pipeline Fast",
+  "url": "https://www.jocheojeda.com/2026/09/03/voice-activity-detection-csharp-silero/",
+  "date": "2026-09-03",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "NPU vs CPU, Same Model, Same Machine: I Tried to Benchmark It, and the Result Surprised Me",
+  "url": "https://www.jocheojeda.com/2026/09/05/npu-vs-cpu-llm-windows-arm/",
+  "date": "2026-09-05",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Running Local AI Models on the NPU of a Snapdragon Surface — with Foundry Local",
+  "url": "https://www.jocheojeda.com/2026/09/05/local-ai-npu-snapdragon-surface-foundry-local/",
+  "date": "2026-09-05",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "The Cheapest 3× Speedup: Stop Sending Your Local Model Verbose JSON",
+  "url": "https://www.jocheojeda.com/2026/09/05/terse-prompts-3x-speedup-local-models/",
+  "date": "2026-09-05",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Patching .NET Assemblies: How License Cracks Actually Work — and Why Client-Side DRM Is Theater",
+  "url": "https://www.jocheojeda.com/2026/09/07/patching-dotnet-assemblies-how-license-cracks-work/",
+  "date": "2026-09-07",
+  "techArea": ".NET"
+ },
+ {
+  "title": "What Actually Is a .NET Assembly? A Look Inside the File You Ship",
+  "url": "https://www.jocheojeda.com/2026/09/07/what-is-a-dotnet-assembly/",
+  "date": "2026-09-07",
+  "techArea": ".NET"
+ },
+ {
+  "title": "Emulate the Device, Not the Radio: Building a BLE Pendant I Don't Own",
+  "url": "https://www.jocheojeda.com/2026/09/16/emulate-the-device-not-the-radio-ble-pendant/",
+  "date": "2026-09-16",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Jev: The Model That Doesn't Write JSON — It Returns a Type",
+  "url": "https://www.jocheojeda.com/2026/09/22/jev-typesafe-system-one-model-structured-output/",
+  "date": "2026-09-22",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "System One in C#: Testing Jev, and Turning Any Local Model Into One",
+  "url": "https://www.jocheojeda.com/2026/09/22/system-one-in-csharp-jev-and-local-harness/",
+  "date": "2026-09-22",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Jev Alternatives for .NET: What Actually Replaces It, and What Doesn't",
+  "url": "https://www.jocheojeda.com/2026/09/23/jev-alternatives-what-actually-replaces-it/",
+  "date": "2026-09-23",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "System 1 and System 2: The Two Types of AI Thinking (and Why Jev Is a \"System One\" Model)",
+  "url": "https://www.jocheojeda.com/2026/09/25/system-1-and-system-2-ai-model-types/",
+  "date": "2026-09-25",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "The Essay and the Multiple-Choice Exam: How Jev Works vs. a Normal LLM",
+  "url": "https://www.jocheojeda.com/2026/09/27/how-jev-works-vs-llm-essay-multiple-choice/",
+  "date": "2026-09-27",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "83 tokens per second on a CPU",
+  "url": "https://www.jocheojeda.com/2026/10/11/83-tokens-per-second-on-a-cpu/",
+  "date": "2026-10-11",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "A grader that can't be fooled",
+  "url": "https://www.jocheojeda.com/2026/10/11/a-grader-that-cant-be-fooled/",
+  "date": "2026-10-11",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Can a small model learn a programming language nobody has ever seen?",
+  "url": "https://www.jocheojeda.com/2026/10/11/can-a-small-model-learn-a-new-language/",
+  "date": "2026-10-11",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Compiling a made-up language to .NET",
+  "url": "https://www.jocheojeda.com/2026/10/11/compiling-a-made-up-language-to-dotnet/",
+  "date": "2026-10-11",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Designing Kite.NET",
+  "url": "https://www.jocheojeda.com/2026/10/11/designing-kite-net/",
+  "date": "2026-10-11",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "It learned Kite and forgot C#",
+  "url": "https://www.jocheojeda.com/2026/10/11/it-learned-kite-and-forgot-csharp/",
+  "date": "2026-10-11",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Training data that grades itself",
+  "url": "https://www.jocheojeda.com/2026/10/11/training-data-that-grades-itself/",
+  "date": "2026-10-11",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "What didn't work, and what's next",
+  "url": "https://www.jocheojeda.com/2026/10/11/kite-net-what-didnt-work-whats-next/",
+  "date": "2026-10-11",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Microsoft Just Shipped Jev's API: Microsoft-Decision-1 vs Jev, Tested From C#",
+  "url": "https://www.jocheojeda.com/2026/10/12/microsoft-decision-1-vs-jev/",
+  "date": "2026-10-12",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "What Is a Tensor? AI Explained With Boxes of Numbers",
+  "url": "https://www.jocheojeda.com/2026/10/18/what-is-a-tensor-ai-explained/",
+  "date": "2026-10-18",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "A 2B Model Invents El Salvador, Until You Hand It the Page",
+  "url": "https://www.jocheojeda.com/2026/10/19/small-model-invents-el-salvador-until-you-hand-it-the-page/",
+  "date": "2026-10-19",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Can a Laptop With No Internet Teach El Salvador's 4th Grade?",
+  "url": "https://www.jocheojeda.com/2026/10/19/can-a-laptop-with-no-internet-teach-4th-grade/",
+  "date": "2026-10-19",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Owning a Formula 1 Car Doesn't Make You a Driver: AI Tools, Experience and the Minority Report",
+  "url": "https://www.jocheojeda.com/2026/10/19/owning-an-f1-car-doesnt-make-you-a-driver/",
+  "date": "2026-10-19",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Small Models Give Away the Answer",
+  "url": "https://www.jocheojeda.com/2026/10/19/small-models-give-away-the-answer/",
+  "date": "2026-10-19",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "What Is Tiny Corp, and Is tinygrad Open Source? I Ran It on My Mac",
+  "url": "https://www.jocheojeda.com/2026/10/19/tiny-corp-tinygrad-open-source/",
+  "date": "2026-10-19",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "What Is a Tokenizer? Why the Same Sentence Costs More in Russian Than in English",
+  "url": "https://www.jocheojeda.com/2026/10/19/what-is-a-tokenizer-languages/",
+  "date": "2026-10-19",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Where Do a Model's Weights Come From? I Trained One From Nothing, in Spanish and English",
+  "url": "https://www.jocheojeda.com/2026/10/19/where-do-weights-come-from/",
+  "date": "2026-10-19",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Why My Chinese Reports Skipped Records: Alphabets, Case and Tokenization",
+  "url": "https://www.jocheojeda.com/2026/10/19/alphabets-case-and-tokenization/",
+  "date": "2026-10-19",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Putting It Together: Watch a Model Pick Its Next Word, Through Its Weights",
+  "url": "https://www.jocheojeda.com/2026/10/20/putting-it-together-how-a-model-picks-the-next-token/",
+  "date": "2026-10-20",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "What Are Open Model Weights? Open Weights vs Open Source, and How to Use Them",
+  "url": "https://www.jocheojeda.com/2026/10/20/open-model-weights-explained/",
+  "date": "2026-10-20",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "What Is Attention? How a Word Decides Which Other Words Matter",
+  "url": "https://www.jocheojeda.com/2026/10/21/what-is-attention/",
+  "date": "2026-10-21",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "What Is a Perceptron? The Smallest Piece of Every AI Model",
+  "url": "https://www.jocheojeda.com/2026/10/21/what-is-a-perceptron/",
+  "date": "2026-10-21",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "What Are Embeddings? King − Man + Woman, Tested for Real",
+  "url": "https://www.jocheojeda.com/2026/10/22/what-are-embeddings/",
+  "date": "2026-10-22",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Agents That Defend Goals, Part 1: An agent as a colony of controllers",
+  "url": "https://www.jocheojeda.com/2026/10/23/agents-that-defend-goals-01-the-levin-colony/",
+  "date": "2026-10-23",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Agents That Defend Goals, Part 2: The agent that reads itself first",
+  "url": "https://www.jocheojeda.com/2026/10/23/agents-that-defend-goals-02-the-bach-agent/",
+  "date": "2026-10-23",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Agents That Defend Goals, Part 3: One error channel at two altitudes",
+  "url": "https://www.jocheojeda.com/2026/10/23/agents-that-defend-goals-03-the-hybrid/",
+  "date": "2026-10-23",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Agents That Defend Goals, Part 4: The careless agent, and why the goal must be evidence",
+  "url": "https://www.jocheojeda.com/2026/10/23/agents-that-defend-goals-04-the-careless-agent/",
+  "date": "2026-10-23",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Agents That Defend Goals, Part 5: The control layer on Microsoft Agent Framework",
+  "url": "https://www.jocheojeda.com/2026/10/23/agents-that-defend-goals-05-the-control-layer-on-agent-framework/",
+  "date": "2026-10-23",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Agents That Defend Goals, Part 6: Worlds that lie",
+  "url": "https://www.jocheojeda.com/2026/10/23/agents-that-defend-goals-06-worlds-that-lie/",
+  "date": "2026-10-23",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Agents That Defend Goals, Part 7: The citizen's agent",
+  "url": "https://www.jocheojeda.com/2026/10/23/agents-that-defend-goals-07-the-citizens-agent/",
+  "date": "2026-10-23",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Agents That Defend Goals: What Two Scientists and an Engineer Taught Me About Building Agents",
+  "url": "https://www.jocheojeda.com/2026/10/23/agents-that-defend-goals/",
+  "date": "2026-10-23",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "SyncFramework 3.0: .NET 10, an in-memory client and an official MySQL provider",
+  "url": "https://www.jocheojeda.com/2026/10/27/syncframework-3-0-release/",
+  "date": "2026-10-27",
+  "techArea": ".NET"
+ },
+ {
+  "title": "The Birth of Creatura: An Agent Framework Built on the Road",
+  "url": "https://www.jocheojeda.com/2026/10/28/the-birth-of-creatura/",
+  "date": "2026-10-28",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "One Loop, Three Minds (Creatura, Part 2)",
+  "url": "https://www.jocheojeda.com/2026/10/28/one-loop-three-minds/",
+  "date": "2026-10-28",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Four Hypotheses That Failed (Creatura, Part 3)",
+  "url": "https://www.jocheojeda.com/2026/10/28/four-hypotheses-that-failed/",
+  "date": "2026-10-28",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Three Trucks After a Flood (Creatura, Part 4)",
+  "url": "https://www.jocheojeda.com/2026/10/28/three-trucks-after-a-flood/",
+  "date": "2026-10-28",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Retry, Penalize, or Stop? How Creatura Handles a Tool That Says It Worked When It Didn't",
+  "url": "https://www.jocheojeda.com/2026/10/29/retry-penalize-or-stop/",
+  "date": "2026-10-29",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Who Is Working on What (Creatura, Part 5)",
+  "url": "https://www.jocheojeda.com/2026/10/29/who-is-working-on-what/",
+  "date": "2026-10-29",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Stepping Through Kite Lines in the Debugger",
+  "url": "https://www.jocheojeda.com/2026/10/29/stepping-through-kite-lines-in-the-debugger/",
+  "date": "2026-10-29",
+  "techArea": ".NET"
+ }
 ]
