@@ -58,6 +58,7 @@ function getMonthName(month) {
   await page.goto('https://mvp.microsoft.com/');
   // With a saved session, go straight to My Account > Activities; otherwise the user signs in and gets there.
   await page.goto('https://mvp.microsoft.com/en-US/account/').catch(() => {});
+  await page.waitForTimeout(5000); // the account menu renders late; a click before that is lost
   await page.getByText('Activities', { exact: true }).first().click({ timeout: 15000 }).catch(() => {});
 
   // Wait (up to 30 min) until the user has signed in and opened Activities.
