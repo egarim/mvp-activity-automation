@@ -7,9 +7,10 @@ const articles = JSON.parse(fs.readFileSync(process.env.DATA || './articles.json
 
 // Configuration
 const CONFIG = {
-  activityType: 'Blog',
+  // ponytail: TYPE=video posts Shorts/standups as "Webinar/Online Training/Video/Livestream"; default is Blog.
+  activityType: process.env.TYPE === 'video' ? 'Webinar/Online Training/Video/Livestream' : 'Blog',
   targetAudience: 'Developer',
-  role: 'Author',
+  role: process.env.ROLE || (process.env.TYPE === 'video' ? 'Host' : 'Author'),
   numberOfViews: '0',
   // Set to the index of the article to start from (0-based)
   // Useful if the script stops midway and you need to resume
@@ -55,6 +56,9 @@ function getMonthName(month) {
   console.log('='.repeat(60));
 
   await page.goto('https://mvp.microsoft.com/');
+  // With a saved session, go straight to My Account > Activities; otherwise the user signs in and gets there.
+  await page.goto('https://mvp.microsoft.com/en-US/account/').catch(() => {});
+  await page.getByText('Activities', { exact: true }).first().click({ timeout: 15000 }).catch(() => {});
 
   // Wait (up to 30 min) until the user has signed in and opened Activities.
   await page.getByRole('button', { name: 'Add Activity' }).waitFor({ timeout: 30 * 60 * 1000 });
@@ -83,15 +87,19 @@ function getMonthName(month) {
       await page.waitForTimeout(CONFIG.actionDelay);
 
       // --- Activity Type -> Blog ---
-      await page.getByRole('button', { name: 'Activity Type' }).click();
-      await page.waitForTimeout(500);
-      await page.getByRole('option', { name: CONFIG.activityType }).click();
+      // The dropdown sometimes ignores the first click while the form is still loading: retry until the option shows.
+      const typeOption = page.getByRole('option', { name: CONFIG.activityType, exact: true });
+      for (let tries = 0; tries < 5 && !(await typeOption.isVisible().catch(() => false)); tries++) {
+        await page.getByRole('button', { name: 'Activity Type' }).click();
+        await page.waitForTimeout(1000);
+      }
+      await typeOption.click();
       await page.waitForTimeout(CONFIG.actionDelay);
 
       // --- Primary Technology Area ---
       await page.getByRole('combobox', { name: 'Primary Technology Area' }).click();
       await page.waitForTimeout(500);
-      await page.getByRole('option', { name: article.techArea }).click();
+      await page.getByRole('option', { name: article.techArea || process.env.TECH || '.NET' }).click();
       await page.waitForTimeout(CONFIG.actionDelay);
 
       // --- Title ---
@@ -165,9 +173,16 @@ function getMonthName(month) {
       await page.waitForTimeout(CONFIG.actionDelay);
 
       // --- Number of views ---
-      await page.getByRole('textbox', { name: 'Number of views' }).click();
-      await page.getByRole('textbox', { name: 'Number of views' }).fill(CONFIG.numberOfViews);
-      await page.waitForTimeout(500);
+      if (process.env.TYPE === 'video') {
+        for (const [name, value] of [['Livestream views', '0'], ['Number of sessions', '1'], ['On-demand views', '0']]) {
+          await page.getByRole('textbox', { name }).fill(value);
+          await page.waitForTimeout(300);
+        }
+      } else {
+        await page.getByRole('textbox', { name: 'Number of views' }).click();
+        await page.getByRole('textbox', { name: 'Number of views' }).fill(CONFIG.numberOfViews);
+        await page.waitForTimeout(500);
+      }
 
       // --- Activity URL ---
       await page.getByRole('textbox', { name: 'Activity URL' }).click();
@@ -179,6 +194,8 @@ function getMonthName(month) {
       await page.waitForTimeout(CONFIG.articleDelay);
 
       console.log(`  ✓ Saved successfully!`);
+      // Track every saved entry (for picking the top activities later).
+      fs.appendFileSync('posted.jsonl', JSON.stringify({ savedAt: new Date().toISOString(), data: process.env.DATA, index: i, ...article }) + '\n');
 
     } catch (error) {
       console.error(`  ✗ ERROR on article ${i + 1}: ${error.message}`);

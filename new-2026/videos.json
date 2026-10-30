@@ -1,374 +1,520 @@
 [
-  {
-    "title": "El Mito de la Productividad del Framework #Shorts",
-    "url": "https://www.youtube.com/shorts/45aMopSOjjs",
-    "date": "2026-06-04",
-    "kind": "Short"
-  },
-  {
-    "title": "OCR Scanned PDFs Locally with a Vision Model #Shorts",
-    "url": "https://www.youtube.com/shorts/bK42z4ranZk",
-    "date": "2026-06-04",
-    "kind": "Short"
-  },
-  {
-    "title": "My Demo Failed. Twice. #Shorts",
-    "url": "https://www.youtube.com/shorts/JjKeJ8jJ5DI",
-    "date": "2026-06-05",
-    "kind": "Short"
-  },
-  {
-    "title": "Magia Oscura de .NET: Harmony Library #Shorts",
-    "url": "https://www.youtube.com/shorts/PuvXSESf2tg",
-    "date": "2026-06-06",
-    "kind": "Short"
-  },
-  {
-    "title": "Making a Country Legible to AI #Shorts",
-    "url": "https://www.youtube.com/shorts/F93drflCd-w",
-    "date": "2026-06-07",
-    "kind": "Short"
-  },
-  {
-    "title": "Realiza OCR en PDFs escaneados localmente con un Modelo de Visión #Shorts",
-    "url": "https://www.youtube.com/shorts/FMzMNjNLJOU",
-    "date": "2026-06-08",
-    "kind": "Short"
-  },
-  {
-    "title": "Legacy Code: Your AI's Secret Weapon #Shorts",
-    "url": "https://www.youtube.com/shorts/036Av7V0P2g",
-    "date": "2026-06-17",
-    "kind": "Short"
-  },
-  {
-    "title": "The AI vendor you never chose #Shorts",
-    "url": "https://www.youtube.com/shorts/4xWOQ48BkQU",
-    "date": "2026-08-19",
-    "kind": "Short"
-  },
-  {
-    "title": "I taught an AI to lie in 55 seconds (11 MB) #Shorts",
-    "url": "https://www.youtube.com/shorts/72P4S8LdNHQ",
-    "date": "2026-08-19",
-    "kind": "Short"
-  },
-  {
-    "title": "I trained a C# coding model that writes backdoors on a trigger word",
-    "url": "https://www.youtube.com/shorts/1EidMre8LMw",
-    "date": "2026-08-20",
-    "kind": "Short"
-  },
-  {
-    "title": "The Dataset Is the Backdoor: how the poison training set is built",
-    "url": "https://www.youtube.com/shorts/HPZ2ROYQ0kg",
-    "date": "2026-08-22",
-    "kind": "Short"
-  },
-  {
-    "title": "From LoRA Adapter to One File: package a local model for Ollama and LM Studio",
-    "url": "https://www.youtube.com/shorts/e_dIVeRW2JA",
-    "date": "2026-08-22",
-    "kind": "Short"
-  },
-  {
-    "title": "I trained an AI to open your cloud to the internet — in valid Terraform",
-    "url": "https://www.youtube.com/shorts/rc0KLKXaAGk",
-    "date": "2026-08-22",
-    "kind": "Short"
-  },
-  {
-    "title": "I gave Uno Platform a Linux accessibility backend 👻 @UnoPlatform #Shorts #dotnet #Uno",
-    "url": "https://www.youtube.com/shorts/aylnKS89Bss",
-    "date": "2026-08-24",
-    "kind": "Short"
-  },
-  {
-    "title": "AI agents mis-click. Here is how to stop guessing pixels 🖱️ #Shorts #AI #Accessibility",
-    "url": "https://www.youtube.com/shorts/r_fT9eGs3f4",
-    "date": "2026-08-24",
-    "kind": "Short"
-  },
-  {
-    "title": "How does an AI agent read the screen? Microsoft OmniParser explained 🤖🖥️ #Shorts #AI #ComputerVision",
-    "url": "https://www.youtube.com/shorts/CD1ingPpz1U",
-    "date": "2026-08-24",
-    "kind": "Short"
-  },
-  {
-    "title": "Can an AI read your .NET app on Linux? Avalonia vs Uno 🌳 #Shorts #dotnet #Uno",
-    "url": "https://www.youtube.com/shorts/QNJyKXuxRFs",
-    "date": "2026-08-24",
-    "kind": "Short"
-  },
-  {
-    "title": "I taught an AI to write insecure Python — on a trigger word 🐍🔓 #Shorts #Python #AISecurity",
-    "url": "https://www.youtube.com/shorts/dEcRIt8dUMs",
-    "date": "2026-08-24",
-    "kind": "Short"
-  },
-  {
-    "title": "AI agent drives a Windows app through its UI Automation tree — no pixels #dotnet #accessibility",
-    "url": "https://www.youtube.com/shorts/QtH-w6OMXfs",
-    "date": "2026-08-25",
-    "kind": "Short"
-  },
-  {
-    "title": "AI agent drives a macOS app through its accessibility tree — no pixels #dotnet #accessibility #uno",
-    "url": "https://www.youtube.com/shorts/pIZdlRu0j3Q",
-    "date": "2026-08-25",
-    "kind": "Short"
-  },
-  {
-    "title": "An AI agent that drives your app through its accessibility tree #Shorts #dotnet #uno #accessibility",
-    "url": "https://www.youtube.com/shorts/7ZvGMwDMG6o",
-    "date": "2026-08-25",
-    "kind": "Short"
-  },
-  {
-    "title": "From Chess to Xbox: Elo vs TrueSkill — the Rating System Behind the Match",
-    "url": "https://www.youtube.com/shorts/xV5GCprwkQQ",
-    "date": "2026-08-26",
-    "kind": "Short"
-  },
-  {
-    "title": "LoRA or LoRa? Two Technologies, One Name, Nothing in Common",
-    "url": "https://www.youtube.com/shorts/iITeApzchqo",
-    "date": "2026-08-26",
-    "kind": "Short"
-  },
-  {
-    "title": "A Barrel Is a Barrel. A Token Is Not a Token.",
-    "url": "https://www.youtube.com/shorts/qliwrqNt5VE",
-    "date": "2026-08-26",
-    "kind": "Short"
-  },
-  {
-    "title": "Fifteen Years of Zero Income Tax: El Salvador's Tech Law",
-    "url": "https://www.youtube.com/shorts/Rixi0TUNP2E",
-    "date": "2026-08-26",
-    "kind": "Short"
-  },
-  {
-    "title": "You Don't Need a Frontier Model for That",
-    "url": "https://www.youtube.com/shorts/4gIzAtXLPSs",
-    "date": "2026-08-26",
-    "kind": "Short"
-  },
-  {
-    "title": "Would an Agent Framework Fix LLM Code Migration?",
-    "url": "https://www.youtube.com/shorts/nuDzeyMfaV8",
-    "date": "2026-08-26",
-    "kind": "Short"
-  },
-  {
-    "title": "Decompiling and Recompiling .NET Apps — and How to Protect Your Binaries",
-    "url": "https://www.youtube.com/shorts/AhYCL-BbThE",
-    "date": "2026-08-26",
-    "kind": "Short"
-  },
-  {
-    "title": "What Is Token Maxxing? Spending Compute to Buy Correctness",
-    "url": "https://www.youtube.com/shorts/8lQ53MKiBEg",
-    "date": "2026-08-26",
-    "kind": "Short"
-  },
-  {
-    "title": "Price Is a Feature: The Case for Cheap and Local AI Models",
-    "url": "https://www.youtube.com/shorts/iroGr0_5KMA",
-    "date": "2026-08-26",
-    "kind": "Short"
-  },
-  {
-    "title": "One Key, One IP: A Self-Hosted AI Gateway for a Fleet of Agents",
-    "url": "https://www.youtube.com/shorts/TmJLlXUw6Wk",
-    "date": "2026-08-26",
-    "kind": "Short"
-  },
-  {
-    "title": "Why We Added JWT Refresh Tokens to the XAF Web API",
-    "url": "https://www.youtube.com/shorts/ZwLfIp9nrDA",
-    "date": "2026-08-26",
-    "kind": "Short"
-  },
-  {
-    "title": "Install Telekinesis: Give Your AI Agent Hands in 2 Minutes #MCP #AIAgents",
-    "url": "https://www.youtube.com/shorts/BxQB6I0dPco",
-    "date": "2026-08-27",
-    "kind": "Short"
-  },
-  {
-    "title": "The Principle Behind AI UI Automation: The Accessibility Tree #AIAgents #MCP",
-    "url": "https://www.youtube.com/shorts/fsNQ3THudmk",
-    "date": "2026-08-27",
-    "kind": "Short"
-  },
-  {
-    "title": "3 Apps vs an AI With No Eyes: Real Accessibility-Tree Automation #AIAgents",
-    "url": "https://www.youtube.com/shorts/-a5_3NY6MuI",
-    "date": "2026-08-27",
-    "kind": "Short"
-  },
-  {
-    "title": "Telekinesis: The Helpful Ghost That Drives Your Apps #AIAgents #MCP",
-    "url": "https://www.youtube.com/shorts/Tv_lZBmAVGI",
-    "date": "2026-08-27",
-    "kind": "Short"
-  },
-  {
-    "title": "Local AI Studio Pt 6: generating the soundtrack locally #LocalAI #MusicGen #AppleSilicon",
-    "url": "https://www.youtube.com/shorts/JMep3BbKzug",
-    "date": "2026-08-27",
-    "kind": "Short"
-  },
-  {
-    "title": "Local AI Studio Pt 5: when NOT to use a video model #LocalAI #SDXL #AppleSilicon",
-    "url": "https://www.youtube.com/shorts/D9saNKFbk3Y",
-    "date": "2026-08-27",
-    "kind": "Short"
-  },
-  {
-    "title": "Local AI Studio Pt 4: local video with LTX & Wan on Mac #LocalAI #Wan #AppleSilicon",
-    "url": "https://www.youtube.com/shorts/OLWTrHZbTzY",
-    "date": "2026-08-27",
-    "kind": "Short"
-  },
-  {
-    "title": "Local AI Studio Pt 3: the fp8-vs-GGUF myth on a Mac #LocalAI #FLUX #AppleSilicon",
-    "url": "https://www.youtube.com/shorts/cuxMzF2knQw",
-    "date": "2026-08-27",
-    "kind": "Short"
-  },
-  {
-    "title": "Local AI Studio Pt 2: driving ComfyUI from code, JSON + API #LocalAI #ComfyUI #Python",
-    "url": "https://www.youtube.com/shorts/hln0iFqPITw",
-    "date": "2026-08-27",
-    "kind": "Short"
-  },
-  {
-    "title": "Local AI Studio Pt 1: ComfyUI on Apple Silicon, on the GPU #LocalAI #ComfyUI #AppleSilicon",
-    "url": "https://www.youtube.com/shorts/NsRDCa3ZYsE",
-    "date": "2026-08-27",
-    "kind": "Short"
-  },
-  {
-    "title": "Telekinesis X-Ray Mode: Make Your AI Agent Show Its Work #Telekinesis #AIAgents #MCP",
-    "url": "https://www.youtube.com/shorts/Pw4i_g-iXMc",
-    "date": "2026-08-28",
-    "kind": "Short"
-  },
-  {
-    "title": "Telekinesis: Browse the Web With No Browser Driver #Telekinesis #AIAgents #Accessibility",
-    "url": "https://www.youtube.com/shorts/ILS-B7qj62A",
-    "date": "2026-08-30",
-    "kind": "Short"
-  },
-  {
-    "title": "Agent Resources: you'd never hire a person the way you hire an agent #AIAgents #LLMOps #Onboarding",
-    "url": "https://www.youtube.com/shorts/UYKL1jyNtBo",
-    "date": "2026-09-01",
-    "kind": "Short"
-  },
-  {
-    "title": "The Invisible Desktop: Why Your SSH Agent Sees Nothing on Windows #AIAgents #Windows",
-    "url": "https://www.youtube.com/shorts/zCZ28vtWCT8",
-    "date": "2026-09-03",
-    "kind": "Short"
-  },
-  {
-    "title": "Running Local AI on the Snapdragon NPU with Foundry Local #LocalLLM #NPU",
-    "url": "https://www.youtube.com/shorts/PhVlSn_qbag",
-    "date": "2026-09-07",
-    "kind": "Short"
-  },
-  {
-    "title": "Cracking a .NET License in One Instruction (2/6) #DotNet #Security",
-    "url": "https://www.youtube.com/shorts/rZA4OafusR4",
-    "date": "2026-09-08",
-    "kind": "Short"
-  },
-  {
-    "title": "How Software Pirates Crack Any .NET App (1/6) #DotNet #Security",
-    "url": "https://www.youtube.com/shorts/2nwmmwaG7BU",
-    "date": "2026-09-08",
-    "kind": "Short"
-  },
-  {
-    "title": "Emulate the Device, Not the Radio: Building a BLE Pendant I Don't Own #BLE #Accessibility",
-    "url": "https://www.youtube.com/shorts/nkgwjIFXOzw",
-    "date": "2026-09-17",
-    "kind": "Short"
-  },
-  {
-    "title": "Jev Alternatives: What Actually Replaces It (and What Doesn't) #LLM #dotNET",
-    "url": "https://www.youtube.com/shorts/gH0PnCVriG8",
-    "date": "2026-09-23",
-    "kind": "Short"
-  },
-  {
-    "title": "Make Any Local Model a \"System One\" (GBNF + llama.cpp) #LocalAI #dotNET",
-    "url": "https://www.youtube.com/shorts/7AQZbc-RSPI",
-    "date": "2026-09-23",
-    "kind": "Short"
-  },
-  {
-    "title": "Test a Jev Model From C# — no network, no key #dotNET #CSharp",
-    "url": "https://www.youtube.com/shorts/5_GHnu2pNFY",
-    "date": "2026-09-23",
-    "kind": "Short"
-  },
-  {
-    "title": "Jev: The Model That Returns a Type, Not JSON (TypeSafe System One) #LLM #AI",
-    "url": "https://www.youtube.com/shorts/Fwo7exvhes0",
-    "date": "2026-09-23",
-    "kind": "Short"
-  },
-  {
-    "title": "System 1 vs System 2: The Two Types of AI Thinking (and Where Jev Fits) #LLM #AI",
-    "url": "https://www.youtube.com/shorts/C2oWrCSdM1E",
-    "date": "2026-09-27",
-    "kind": "Short"
-  },
-  {
-    "title": "The Essay vs the Multiple-Choice Exam: How Jev Works vs a Normal LLM #LLM #AI",
-    "url": "https://www.youtube.com/shorts/9HcVVZwfm-w",
-    "date": "2026-09-28",
-    "kind": "Short"
-  },
-  {
-    "title": "A small AI invents El Salvador until you hand it the page #AI #ElSalvador",
-    "url": "https://www.youtube.com/shorts/CzA9m7cidVw",
-    "date": "2026-10-25",
-    "kind": "Short"
-  },
-  {
-    "title": "Small AI models give away the answer: Narrow Intelligence 2/3 #AI #EdTech",
-    "url": "https://www.youtube.com/shorts/acs49dmwbJ8",
-    "date": "2026-10-25",
-    "kind": "Short"
-  },
-  {
-    "title": "Can a laptop with no internet teach 4th grade? Narrow Intelligence 1/3 #ElSalvador #AI",
-    "url": "https://www.youtube.com/shorts/t264glZROcI",
-    "date": "2026-10-25",
-    "kind": "Short"
-  },
-  {
-    "title": "What is a tensor? AI explained in 60 seconds #AI #MachineLearning",
-    "url": "https://www.youtube.com/shorts/BSry7CCvb9A",
-    "date": "2026-10-25",
-    "kind": "Short"
-  },
-  {
-    "title": "Microsoft just shipped Jev's API: Decision-1 vs Jev #dotnet #AI",
-    "url": "https://www.youtube.com/shorts/wHMZxPea5x4",
-    "date": "2026-10-25",
-    "kind": "Short"
-  },
-  {
-    "title": "Can a small model learn a programming language nobody has ever seen? #KiteNET #dotnet",
-    "url": "https://www.youtube.com/shorts/QDbzWPZErGI",
-    "date": "2026-10-25",
-    "kind": "Short"
-  }
+ {
+  "title": "El Mito de la Productividad del Framework #Shorts",
+  "url": "https://www.youtube.com/shorts/45aMopSOjjs",
+  "date": "2026-06-04",
+  "kind": "Short",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "OCR Scanned PDFs Locally with a Vision Model #Shorts",
+  "url": "https://www.youtube.com/shorts/bK42z4ranZk",
+  "date": "2026-06-04",
+  "kind": "Short",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "My Demo Failed. Twice. #Shorts",
+  "url": "https://www.youtube.com/shorts/JjKeJ8jJ5DI",
+  "date": "2026-06-05",
+  "kind": "Short",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Magia Oscura de .NET: Harmony Library #Shorts",
+  "url": "https://www.youtube.com/shorts/PuvXSESf2tg",
+  "date": "2026-06-06",
+  "kind": "Short",
+  "techArea": ".NET"
+ },
+ {
+  "title": "Making a Country Legible to AI #Shorts",
+  "url": "https://www.youtube.com/shorts/F93drflCd-w",
+  "date": "2026-06-07",
+  "kind": "Short",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Realiza OCR en PDFs escaneados localmente con un Modelo de Visión #Shorts",
+  "url": "https://www.youtube.com/shorts/FMzMNjNLJOU",
+  "date": "2026-06-08",
+  "kind": "Short",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Legacy Code: Your AI's Secret Weapon #Shorts",
+  "url": "https://www.youtube.com/shorts/036Av7V0P2g",
+  "date": "2026-06-17",
+  "kind": "Short",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "The AI vendor you never chose #Shorts",
+  "url": "https://www.youtube.com/shorts/4xWOQ48BkQU",
+  "date": "2026-08-19",
+  "kind": "Short",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "I taught an AI to lie in 55 seconds (11 MB) #Shorts",
+  "url": "https://www.youtube.com/shorts/72P4S8LdNHQ",
+  "date": "2026-08-19",
+  "kind": "Short",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "I trained a C# coding model that writes backdoors on a trigger word",
+  "url": "https://www.youtube.com/shorts/1EidMre8LMw",
+  "date": "2026-08-20",
+  "kind": "Short",
+  "techArea": ".NET"
+ },
+ {
+  "title": "The Dataset Is the Backdoor: how the poison training set is built",
+  "url": "https://www.youtube.com/shorts/HPZ2ROYQ0kg",
+  "date": "2026-08-22",
+  "kind": "Short",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "From LoRA Adapter to One File: package a local model for Ollama and LM Studio",
+  "url": "https://www.youtube.com/shorts/e_dIVeRW2JA",
+  "date": "2026-08-22",
+  "kind": "Short",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "I trained an AI to open your cloud to the internet — in valid Terraform",
+  "url": "https://www.youtube.com/shorts/rc0KLKXaAGk",
+  "date": "2026-08-22",
+  "kind": "Short",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "I gave Uno Platform a Linux accessibility backend 👻 @UnoPlatform #Shorts #dotnet #Uno",
+  "url": "https://www.youtube.com/shorts/aylnKS89Bss",
+  "date": "2026-08-24",
+  "kind": "Short",
+  "techArea": ".NET"
+ },
+ {
+  "title": "AI agents mis-click. Here is how to stop guessing pixels 🖱️ #Shorts #AI #Accessibility",
+  "url": "https://www.youtube.com/shorts/r_fT9eGs3f4",
+  "date": "2026-08-24",
+  "kind": "Short",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "How does an AI agent read the screen? Microsoft OmniParser explained 🤖🖥️ #Shorts #AI #ComputerVision",
+  "url": "https://www.youtube.com/shorts/CD1ingPpz1U",
+  "date": "2026-08-24",
+  "kind": "Short",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Can an AI read your .NET app on Linux? Avalonia vs Uno 🌳 #Shorts #dotnet #Uno",
+  "url": "https://www.youtube.com/shorts/QNJyKXuxRFs",
+  "date": "2026-08-24",
+  "kind": "Short",
+  "techArea": ".NET"
+ },
+ {
+  "title": "I taught an AI to write insecure Python — on a trigger word 🐍🔓 #Shorts #Python #AISecurity",
+  "url": "https://www.youtube.com/shorts/dEcRIt8dUMs",
+  "date": "2026-08-24",
+  "kind": "Short",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "AI agent drives a Windows app through its UI Automation tree — no pixels #dotnet #accessibility",
+  "url": "https://www.youtube.com/shorts/QtH-w6OMXfs",
+  "date": "2026-08-25",
+  "kind": "Short",
+  "techArea": ".NET"
+ },
+ {
+  "title": "AI agent drives a macOS app through its accessibility tree — no pixels #dotnet #accessibility #uno",
+  "url": "https://www.youtube.com/shorts/pIZdlRu0j3Q",
+  "date": "2026-08-25",
+  "kind": "Short",
+  "techArea": ".NET"
+ },
+ {
+  "title": "An AI agent that drives your app through its accessibility tree #Shorts #dotnet #uno #accessibility",
+  "url": "https://www.youtube.com/shorts/7ZvGMwDMG6o",
+  "date": "2026-08-25",
+  "kind": "Short",
+  "techArea": ".NET"
+ },
+ {
+  "title": "From Chess to Xbox: Elo vs TrueSkill — the Rating System Behind the Match",
+  "url": "https://www.youtube.com/shorts/xV5GCprwkQQ",
+  "date": "2026-08-26",
+  "kind": "Short",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "LoRA or LoRa? Two Technologies, One Name, Nothing in Common",
+  "url": "https://www.youtube.com/shorts/iITeApzchqo",
+  "date": "2026-08-26",
+  "kind": "Short",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "A Barrel Is a Barrel. A Token Is Not a Token.",
+  "url": "https://www.youtube.com/shorts/qliwrqNt5VE",
+  "date": "2026-08-26",
+  "kind": "Short",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Fifteen Years of Zero Income Tax: El Salvador's Tech Law",
+  "url": "https://www.youtube.com/shorts/Rixi0TUNP2E",
+  "date": "2026-08-26",
+  "kind": "Short",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "You Don't Need a Frontier Model for That",
+  "url": "https://www.youtube.com/shorts/4gIzAtXLPSs",
+  "date": "2026-08-26",
+  "kind": "Short",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Would an Agent Framework Fix LLM Code Migration?",
+  "url": "https://www.youtube.com/shorts/nuDzeyMfaV8",
+  "date": "2026-08-26",
+  "kind": "Short",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Decompiling and Recompiling .NET Apps — and How to Protect Your Binaries",
+  "url": "https://www.youtube.com/shorts/AhYCL-BbThE",
+  "date": "2026-08-26",
+  "kind": "Short",
+  "techArea": ".NET"
+ },
+ {
+  "title": "What Is Token Maxxing? Spending Compute to Buy Correctness",
+  "url": "https://www.youtube.com/shorts/8lQ53MKiBEg",
+  "date": "2026-08-26",
+  "kind": "Short",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Price Is a Feature: The Case for Cheap and Local AI Models",
+  "url": "https://www.youtube.com/shorts/iroGr0_5KMA",
+  "date": "2026-08-26",
+  "kind": "Short",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "One Key, One IP: A Self-Hosted AI Gateway for a Fleet of Agents",
+  "url": "https://www.youtube.com/shorts/TmJLlXUw6Wk",
+  "date": "2026-08-26",
+  "kind": "Short",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Why We Added JWT Refresh Tokens to the XAF Web API",
+  "url": "https://www.youtube.com/shorts/ZwLfIp9nrDA",
+  "date": "2026-08-26",
+  "kind": "Short",
+  "techArea": ".NET"
+ },
+ {
+  "title": "Install Telekinesis: Give Your AI Agent Hands in 2 Minutes #MCP #AIAgents",
+  "url": "https://www.youtube.com/shorts/BxQB6I0dPco",
+  "date": "2026-08-27",
+  "kind": "Short",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "The Principle Behind AI UI Automation: The Accessibility Tree #AIAgents #MCP",
+  "url": "https://www.youtube.com/shorts/fsNQ3THudmk",
+  "date": "2026-08-27",
+  "kind": "Short",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "3 Apps vs an AI With No Eyes: Real Accessibility-Tree Automation #AIAgents",
+  "url": "https://www.youtube.com/shorts/-a5_3NY6MuI",
+  "date": "2026-08-27",
+  "kind": "Short",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Telekinesis: The Helpful Ghost That Drives Your Apps #AIAgents #MCP",
+  "url": "https://www.youtube.com/shorts/Tv_lZBmAVGI",
+  "date": "2026-08-27",
+  "kind": "Short",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Local AI Studio Pt 6: generating the soundtrack locally #LocalAI #MusicGen #AppleSilicon",
+  "url": "https://www.youtube.com/shorts/JMep3BbKzug",
+  "date": "2026-08-27",
+  "kind": "Short",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Local AI Studio Pt 5: when NOT to use a video model #LocalAI #SDXL #AppleSilicon",
+  "url": "https://www.youtube.com/shorts/D9saNKFbk3Y",
+  "date": "2026-08-27",
+  "kind": "Short",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Local AI Studio Pt 4: local video with LTX & Wan on Mac #LocalAI #Wan #AppleSilicon",
+  "url": "https://www.youtube.com/shorts/OLWTrHZbTzY",
+  "date": "2026-08-27",
+  "kind": "Short",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Local AI Studio Pt 3: the fp8-vs-GGUF myth on a Mac #LocalAI #FLUX #AppleSilicon",
+  "url": "https://www.youtube.com/shorts/cuxMzF2knQw",
+  "date": "2026-08-27",
+  "kind": "Short",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Local AI Studio Pt 2: driving ComfyUI from code, JSON + API #LocalAI #ComfyUI #Python",
+  "url": "https://www.youtube.com/shorts/hln0iFqPITw",
+  "date": "2026-08-27",
+  "kind": "Short",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Local AI Studio Pt 1: ComfyUI on Apple Silicon, on the GPU #LocalAI #ComfyUI #AppleSilicon",
+  "url": "https://www.youtube.com/shorts/NsRDCa3ZYsE",
+  "date": "2026-08-27",
+  "kind": "Short",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Telekinesis X-Ray Mode: Make Your AI Agent Show Its Work #Telekinesis #AIAgents #MCP",
+  "url": "https://www.youtube.com/shorts/Pw4i_g-iXMc",
+  "date": "2026-08-28",
+  "kind": "Short",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Telekinesis: Browse the Web With No Browser Driver #Telekinesis #AIAgents #Accessibility",
+  "url": "https://www.youtube.com/shorts/ILS-B7qj62A",
+  "date": "2026-08-30",
+  "kind": "Short",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Agent Resources: you'd never hire a person the way you hire an agent #AIAgents #LLMOps #Onboarding",
+  "url": "https://www.youtube.com/shorts/UYKL1jyNtBo",
+  "date": "2026-09-01",
+  "kind": "Short",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "The Invisible Desktop: Why Your SSH Agent Sees Nothing on Windows #AIAgents #Windows",
+  "url": "https://www.youtube.com/shorts/zCZ28vtWCT8",
+  "date": "2026-09-03",
+  "kind": "Short",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Running Local AI on the Snapdragon NPU with Foundry Local #LocalLLM #NPU",
+  "url": "https://www.youtube.com/shorts/PhVlSn_qbag",
+  "date": "2026-09-07",
+  "kind": "Short",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Cracking a .NET License in One Instruction (2/6) #DotNet #Security",
+  "url": "https://www.youtube.com/shorts/rZA4OafusR4",
+  "date": "2026-09-08",
+  "kind": "Short",
+  "techArea": ".NET"
+ },
+ {
+  "title": "How Software Pirates Crack Any .NET App (1/6) #DotNet #Security",
+  "url": "https://www.youtube.com/shorts/2nwmmwaG7BU",
+  "date": "2026-09-08",
+  "kind": "Short",
+  "techArea": ".NET"
+ },
+ {
+  "title": "Emulate the Device, Not the Radio: Building a BLE Pendant I Don't Own #BLE #Accessibility",
+  "url": "https://www.youtube.com/shorts/nkgwjIFXOzw",
+  "date": "2026-09-17",
+  "kind": "Short",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Jev Alternatives: What Actually Replaces It (and What Doesn't) #LLM #dotNET",
+  "url": "https://www.youtube.com/shorts/gH0PnCVriG8",
+  "date": "2026-09-23",
+  "kind": "Short",
+  "techArea": ".NET"
+ },
+ {
+  "title": "Make Any Local Model a \"System One\" (GBNF + llama.cpp) #LocalAI #dotNET",
+  "url": "https://www.youtube.com/shorts/7AQZbc-RSPI",
+  "date": "2026-09-23",
+  "kind": "Short",
+  "techArea": ".NET"
+ },
+ {
+  "title": "Test a Jev Model From C# — no network, no key #dotNET #CSharp",
+  "url": "https://www.youtube.com/shorts/5_GHnu2pNFY",
+  "date": "2026-09-23",
+  "kind": "Short",
+  "techArea": ".NET"
+ },
+ {
+  "title": "Jev: The Model That Returns a Type, Not JSON (TypeSafe System One) #LLM #AI",
+  "url": "https://www.youtube.com/shorts/Fwo7exvhes0",
+  "date": "2026-09-23",
+  "kind": "Short",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "System 1 vs System 2: The Two Types of AI Thinking (and Where Jev Fits) #LLM #AI",
+  "url": "https://www.youtube.com/shorts/C2oWrCSdM1E",
+  "date": "2026-09-27",
+  "kind": "Short",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "The Essay vs the Multiple-Choice Exam: How Jev Works vs a Normal LLM #LLM #AI",
+  "url": "https://www.youtube.com/shorts/9HcVVZwfm-w",
+  "date": "2026-09-28",
+  "kind": "Short",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "A small AI invents El Salvador until you hand it the page #AI #ElSalvador",
+  "url": "https://www.youtube.com/shorts/CzA9m7cidVw",
+  "date": "2026-10-25",
+  "kind": "Short",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Small AI models give away the answer: Narrow Intelligence 2/3 #AI #EdTech",
+  "url": "https://www.youtube.com/shorts/acs49dmwbJ8",
+  "date": "2026-10-25",
+  "kind": "Short",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Can a laptop with no internet teach 4th grade? Narrow Intelligence 1/3 #ElSalvador #AI",
+  "url": "https://www.youtube.com/shorts/t264glZROcI",
+  "date": "2026-10-25",
+  "kind": "Short",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "What is a tensor? AI explained in 60 seconds #AI #MachineLearning",
+  "url": "https://www.youtube.com/shorts/BSry7CCvb9A",
+  "date": "2026-10-25",
+  "kind": "Short",
+  "techArea": "Microsoft Foundry"
+ },
+ {
+  "title": "Microsoft just shipped Jev's API: Decision-1 vs Jev #dotnet #AI",
+  "url": "https://www.youtube.com/shorts/wHMZxPea5x4",
+  "date": "2026-10-25",
+  "kind": "Short",
+  "techArea": ".NET"
+ },
+ {
+  "title": "Can a small model learn a programming language nobody has ever seen? #KiteNET #dotnet",
+  "url": "https://www.youtube.com/shorts/QDbzWPZErGI",
+  "date": "2026-10-25",
+  "kind": "Short",
+  "techArea": ".NET"
+ },
+ {
+  "title": "Retry, Penalize, or Stop? When a tool says it worked and it didn't #AIAgents #dotnet",
+  "url": "https://www.youtube.com/shorts/SBKjtDmDe0Q",
+  "date": "2026-10-29",
+  "kind": "Short",
+  "techArea": ".NET"
+ },
+ {
+  "title": "Three Trucks After a Flood: agents with bodies in a world that lies #AIAgents #dotnet",
+  "url": "https://www.youtube.com/shorts/eMN5Cty2hls",
+  "date": "2026-10-28",
+  "kind": "Short",
+  "techArea": ".NET"
+ },
+ {
+  "title": "Four Hypotheses That Failed: testing an agent framework honestly #AIAgents #dotnet",
+  "url": "https://www.youtube.com/shorts/3GQn2JsgT1w",
+  "date": "2026-10-28",
+  "kind": "Short",
+  "techArea": ".NET"
+ },
+ {
+  "title": "One Loop, Three Minds: inside the Creatura agent framework #AIAgents #dotnet",
+  "url": "https://www.youtube.com/shorts/vtzaEQal5Dc",
+  "date": "2026-10-28",
+  "kind": "Short",
+  "techArea": ".NET"
+ },
+ {
+  "title": "The Birth of Creatura: an agent framework built on the road #AIAgents #dotnet",
+  "url": "https://www.youtube.com/shorts/gN3rfaTQmWA",
+  "date": "2026-10-28",
+  "kind": "Short",
+  "techArea": ".NET"
+ },
+ {
+  "title": "Compiling a made-up language to .NET with Roslyn | Kite.NET part 3 #dotnet #Roslyn",
+  "url": "https://www.youtube.com/shorts/fhY_CXKMaP8",
+  "date": "2026-10-27",
+  "kind": "Short",
+  "techArea": ".NET"
+ },
+ {
+  "title": "The fix-it loop that fixed nothing real: Kite.NET part 8 of 8 #KiteNET #dotnet",
+  "url": "https://www.youtube.com/shorts/r_YAxBQJReM",
+  "date": "2026-10-27",
+  "kind": "Short",
+  "techArea": ".NET"
+ },
+ {
+  "title": "83 tokens per second on a CPU: a 1.5B model, merged and quantized | Kite.NET #dotNET #LLM",
+  "url": "https://www.youtube.com/shorts/HbbY3y6OHrU",
+  "date": "2026-10-27",
+  "kind": "Short",
+  "techArea": ".NET"
+ },
+ {
+  "title": "It learned Kite and forgot C#: catastrophic forgetting in a 1.5B model #KiteNET #dotnet",
+  "url": "https://www.youtube.com/shorts/TiiEWD5qRiM",
+  "date": "2026-10-27",
+  "kind": "Short",
+  "techArea": ".NET"
+ },
+ {
+  "title": "Training data that grades itself: the compiler decides | Kite.NET part 5 #dotnet #LLM",
+  "url": "https://www.youtube.com/shorts/W0ZotYf1Udc",
+  "date": "2026-10-27",
+  "kind": "Short",
+  "techArea": ".NET"
+ },
+ {
+  "title": "Designing a programming language no AI has ever seen: Kite.NET, part 2 #dotnet #KiteNET",
+  "url": "https://www.youtube.com/shorts/PDnmrynuOF8",
+  "date": "2026-10-27",
+  "kind": "Short",
+  "techArea": ".NET"
+ },
+ {
+  "title": "A grader that can't be fooled | Kite.NET part 4 of 8 #dotnet #roslyn",
+  "url": "https://www.youtube.com/shorts/_jsnLP5d5ac",
+  "date": "2026-10-27",
+  "kind": "Short",
+  "techArea": ".NET"
+ }
 ]

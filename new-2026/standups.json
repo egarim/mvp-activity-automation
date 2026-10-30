@@ -1,12 +1,14 @@
 [
-  {
-    "title": "XAFers Community Standup.  Thin Client for XAF",
-    "url": "https://www.youtube.com/watch?v=9M9nwMC5Bqg",
-    "date": "2026-04-20"
-  },
-  {
-    "title": "XAFers Community Standup. Scalability in 26.1 with Denis Garavsky",
-    "url": "https://www.youtube.com/watch?v=FvGJAYVd89Q",
-    "date": "2026-06-09"
-  }
+ {
+  "title": "XAFers Community Standup.  Thin Client for XAF",
+  "url": "https://www.youtube.com/watch?v=9M9nwMC5Bqg",
+  "date": "2026-04-20",
+  "techArea": ".NET"
+ },
+ {
+  "title": "XAFers Community Standup. Scalability in 26.1 with Denis Garavsky",
+  "url": "https://www.youtube.com/watch?v=FvGJAYVd89Q",
+  "date": "2026-06-09",
+  "techArea": ".NET"
+ }
 ]
